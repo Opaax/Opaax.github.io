@@ -1,6 +1,10 @@
-🎮 Gameplay Programmer (Unity / Unreal) - 
-📍 Based in Montréal, Canada - 
-📧 enguerran.cobert@gmail.com
+---
+
+- 🎮 Gameplay Programmer (Unity / Unreal)
+- 📍 Based in Montréal, Canada
+- 📧 enguerran.cobert@gmail.com
+
+---
 
 [About Me](aboutme.md) - 
 [Contact](contact.md)
