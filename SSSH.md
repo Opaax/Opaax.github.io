@@ -10,9 +10,6 @@ With that, I can get only valid cells where my enemy will always spawn.
 
 ---
 
-<details>
-  <summary>Some Code</summary>
-  
 ```C++
   struct FSpawnGridHandleBase
 {
@@ -194,7 +191,6 @@ void UTSSpawnManagerComponent::BeginPlay()
 	GetWorld()->GetTimerManager().SetTimer(TimerHandle, TimerDel, SpawnDefinition->GetSpawnRate(), true);
 }
 ```
-</details>
 
 ---
 
