@@ -95,4 +95,4 @@ When I’m not coding (or playing video games 🎮), I enjoy:
 
 Anything that gets me away from screens and helps me recharge.  
 
-👉 Retour à la [Home](./).
+👉 [Home](./).
