@@ -4,8 +4,7 @@
 📍 Based in Montréal, Canada 
 📧 enguerran.cobert@gmail.com
 
-[About Me](aboutme.md)
-[-]
+[About Me](aboutme.md) - 
 [Contact](contact.md)
 
 ---
