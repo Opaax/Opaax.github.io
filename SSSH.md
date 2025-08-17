@@ -11,7 +11,7 @@ With that, I can get only valid cells where my enemy will always spawn.
 ---
 
 ```C++
-  struct FSpawnGridHandleBase
+struct FSpawnGridHandleBase
 {
 public:
 	FVector3d Location;
@@ -20,9 +20,7 @@ public:
 	FSpawnGridHandleBase(): Location(), GridIndex(0) {}
 };
 
-/**
- * 
- */
+
 template<class HandleType = FSpawnGridHandleBase>
 class SpatialHashingHandler
 {
@@ -52,7 +50,7 @@ public:
 	}
 
 	/**
-	 * Reserve memory space for the hash grid to optimize insertion of a given number of elements.
+	 * Reserve memory space for the hash grid to optimize the insertion of a given number of elements.
 	 * @param Num The number of elements to reserve space for.
 	 */
 	void Reserve(int32 Num) const
@@ -65,11 +63,13 @@ public:
 	 * @return Pointer to the TPointHashGrid3d<int32> instance.
 	 */
 	UE::Geometry::TPointHashGrid3d<int32>* GetGrid() const { return PointHash3;}
+
 	/**
 	 * Get a copy of all the handles stored in the Spatial Hashing Handler.
 	 * @return An array of pointers to the HandleType instances.
 	 */
 	TArray<HandleType*> GetHandlesCopy() const { return AllHandle;}
+
 	/**
 	 * Get a const reference to the array of pointers to stored HandleType instances.
 	 * @return Const reference to the array of pointers to HandleType instances.
