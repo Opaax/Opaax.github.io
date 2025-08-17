@@ -7,7 +7,7 @@
 
 ---
 
-## 🚀 Projects
+## Projects
 - 🕹️ [Combo System Prototype](https://github.com/EnguerranCobert/combo-system)  
 - 🧩 [Algorithm Challenges in C#](https://github.com/EnguerranCobert/algorithms-csharp)  
 - 🎨 [Unity Gameplay Toolkit](https://github.com/EnguerranCobert/unity-gameplay-toolkit)  
@@ -20,5 +20,5 @@
 ---
 
 ## 🌐 Links
-- [LinkedIn](https://linkedin.com/in/tonprofil)  
+- [LinkedIn](https://www.linkedin.com/in/enguerran-cobert/)  
 - [Portfolio Website](https://enguerrancobert.github.io)  
