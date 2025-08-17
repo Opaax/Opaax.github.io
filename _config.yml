@@ -8,5 +8,5 @@ nav:
     url: /
   - title: "About"
     url: /aboutme
-  - title: "Projects"
-    url: /projects
+  - title: "Spawn System Using Spatial Hashing"
+    url: /SSSH
