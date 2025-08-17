@@ -6,20 +6,13 @@
 
 ---
 
-[About Me](aboutme.md) - 
-[Contact](contact.md)
-
+[About Me](aboutme.md)
 ---
 
 ## Projects
 - 🕹️ [Combo System Prototype](https://github.com/EnguerranCobert/combo-system)  
 - 🧩 [Algorithm Challenges in C#](https://github.com/EnguerranCobert/algorithms-csharp)  
 - 🎨 [Unity Gameplay Toolkit](https://github.com/EnguerranCobert/unity-gameplay-toolkit)  
-
----
-
-## 📊 GitHub Stats
-![Enguerran’s GitHub stats](https://github-readme-stats.vercel.app/api?username=Opaax&show_icons=true&theme=radical)
 
 ---
 
