@@ -12,7 +12,7 @@
 
 ## Projects
 
-- 🕹️ [Yojimbot - Fan project](https://github.com/Opaax/AnimationProgYojimbot)
+- 🕹️ [Yojimbot - Fan project](https://github.com/Opaax/Yojimbot_FanProject)
 
 ---
 
