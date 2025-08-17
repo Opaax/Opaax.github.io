@@ -10,3 +10,5 @@ nav:
     url: /aboutme
   - title: "Spawn System Using Spatial Hashing"
     url: /SSSH
+  - title: "A* Pathfinding"
+    url: /AStartPF
