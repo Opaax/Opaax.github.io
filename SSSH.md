@@ -1,5 +1,6 @@
-#Spawn System Using Spatial Hashing
-
+---
+layout: default
+title: Spawn System using Spatial Hashing
 ---
 
 For one of my projects, I need a spawn system that spawns enemies at a range of the player, but with random parameters.
