@@ -11,6 +11,7 @@ With that, I can get only valid cells where my enemy will always spawn.
 
 ---
 
+
 ```C++
 struct FSpawnGridHandleBase
 {
