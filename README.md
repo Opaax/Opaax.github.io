@@ -1,6 +1,6 @@
-# 👋 Hi, I’m Enguerran
+# Hi, I’m Enguerran COBERT
 
-🎮 Gameplay Programmer (Unity / Unreal / C#)  
+🎮 Gameplay Programmer (Unity / Unreal)  
 📍 Based in Montréal, Canada  
 
 ---
