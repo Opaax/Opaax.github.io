@@ -3,7 +3,7 @@ layout: default
 title: About Me
 ---
 
-# About Me  
+# About Me
 
 Salut 👋 je suis Enguerran,  
 Gameplay Programmer spécialisé en **Unity, Unreal et C#**.  
