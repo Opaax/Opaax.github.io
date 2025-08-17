@@ -1,6 +1,15 @@
 title: Enguerran COBERT 
-theme: jekyll-theme-tactile
+theme: jekyll-theme-cayman
 description: "Gameplay Programmer | Unity & Unreal"
+
+# Navigation links
+nav:
+  - title: "Home"
+    url: /
+  - title: "About"
+    url: /about
+  - title: "Projects"
+    url: /projects
 
 # Navigation links
 nav:
