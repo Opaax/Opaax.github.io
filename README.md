@@ -1,8 +1,5 @@
 ---
 layout: default
-title: Home
----
-
 ---
 
 - 🎮 Gameplay Programmer (Unity / Unreal)
