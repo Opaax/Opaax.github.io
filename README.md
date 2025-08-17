@@ -11,9 +11,8 @@
 ---
 
 ## Projects
-- 🕹️ [Combo System Prototype](https://github.com/EnguerranCobert/combo-system)  
-- 🧩 [Algorithm Challenges in C#](https://github.com/EnguerranCobert/algorithms-csharp)  
-- 🎨 [Unity Gameplay Toolkit](https://github.com/EnguerranCobert/unity-gameplay-toolkit)  
+
+- 🕹️ [Yojimbot - Fan project](https://github.com/Opaax/AnimationProgYojimbot)
 
 ---
 
