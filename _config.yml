@@ -7,15 +7,6 @@ nav:
   - title: "Home"
     url: /
   - title: "About"
-    url: /about
-  - title: "Projects"
-    url: /projects
-
-# Navigation links
-nav:
-  - title: "Home"
-    url: /
-  - title: "AboutMe"
     url: /aboutme
   - title: "Projects"
     url: /projects
