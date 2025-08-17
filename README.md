@@ -20,5 +20,5 @@
 ---
 
 ## 🌐 Links
-- [LinkedIn](https://www.linkedin.com/in/enguerran-cobert/)  
+- [LinkedIn](linkedin.com/in/enguerran-cobert)
 - [Portfolio Website](https://enguerrancobert.github.io)  
