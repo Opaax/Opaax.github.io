@@ -16,6 +16,6 @@ nav:
   - title: "Home"
     url: /
   - title: "AboutMe"
-    url: /about
+    url: /aboutme
   - title: "Projects"
     url: /projects
