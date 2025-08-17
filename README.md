@@ -18,4 +18,4 @@
 
 ## 🌐 Links
 - [LinkedIn](https://linkedin.com/in/enguerran-cobert)
-- [Portfolio Website](https://enguerrancobert.github.io)  
+- [Portfolio Website](https://enguerrancobert.github.io)
