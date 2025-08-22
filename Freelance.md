@@ -81,17 +81,33 @@ I use my company to publish plugins on the Unreal market (FAB).
 
 #### FR
 
-Ce plugin fournit des outils pour créer un platformer 3D.
+Ce plugin fournit des outils pour créer un **platformer 3D**.
 Par exemple, un spawner basé sur une spline permet de faire apparaître des plateformes, des pièces ou d’autres éléments.
 On y trouve également des plateformes à sens unique (one-way), fixes, ou se déplaçant soit le long d’une spline, soit entre des points d’ancrage.
 Enfin, un exemple de scroller en vue de côté illustre l’ensemble des fonctionnalités du plugin.
 
 #### EN
 
-This plugin provides tools to create a 3D platformer.
+This plugin provides tools to create a **3D platformer**.
 For instance, it includes a spline-based spawner that can generate platforms, coins, or other objects.
 It also features one-way platforms, fixed platforms, and moving platforms that either follow a spline or move between anchor points.
 Finally, a side-view scroller example showcases all the plugin’s features.
 
 [Download the demo](https://enguerrancobert.itch.io/platformermaker)
+
+### Heart-Based Life System
+
+#### FR
+
+Ce plugin est une solution pour recréer le système de vie des jeux Zelda.
+Il est entièrement modulable : vous n’êtes pas limité à des cœurs divisés en 4 parties, mais pouvez définir le nombre de segments que vous souhaitez !
+Comme dans les récents Zelda (BOTW, TOTK), il est également possible d’ajouter des cœurs bonus et de la vie supplémentaire.
+
+#### EN
+
+This plugin provides a solution to recreate the Zelda-style health system.
+It is fully modular: you are not limited to hearts divided into 4 parts, but can define as many segments as you want!
+Just like in the latest Zelda games (BOTW, TOTK), you can also add bonus hearts and temporary extra health.
+
+[Download the demo](https://enguerrancobert.itch.io/heart-base-life-system-demo)
 
