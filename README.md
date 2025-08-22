@@ -1,3 +1,6 @@
+This portfolio is under construction. [My Current Portfolio](https://enguerrancobert.myportfolio.com/)
+
+---
 
 - 🎮 Gameplay Programmer (Unity / Unreal)
 - 📍 Based in Montréal, Canada
@@ -19,4 +22,3 @@
 
 ## 🌐 Links
 - [LinkedIn](https://linkedin.com/in/enguerran-cobert)
-- [Portfolio Website](https://enguerrancobert.github.io)
