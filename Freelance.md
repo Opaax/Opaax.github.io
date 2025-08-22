@@ -45,7 +45,7 @@ I worked across **all aspects of the game**, from exploration systems to combat 
 
 #### FR
 
-J'ai réalisé cette mission entre Août 2023 jusqu'à Octobre 2023. 
+J'ai réalisé cette mission de Août 2023 jusqu'à Octobre 2023. 
 Durant cette période, je cumulais deux missions en parallèle.  
 
 Sur ce **projet Unity**, j’ai principalement travaillé à l’amélioration du **HUD** et du **menu de sélection des personnages**, qui avaient besoin d’un supplément de polish.
