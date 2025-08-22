@@ -12,7 +12,7 @@ This portfolio is under construction. [My Current Portfolio](https://enguerranco
 
 ---
 
-## Experience
+## Experiences
 
 - 🕹️ [Freelance](Freelance.md)
   
