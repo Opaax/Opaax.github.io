@@ -30,3 +30,4 @@ This portfolio is under construction. [My Current Portfolio](https://enguerranco
 
 ## 🌐 Links
 - [LinkedIn](https://linkedin.com/in/enguerran-cobert)
+- [Itch.io](https://enguerrancobert.itch.io/)
