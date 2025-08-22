@@ -64,3 +64,34 @@ I also developed a small **tool** leveraging **DoTween** to enhance the game’s
 The game is published by **Ankama**.
 
 [![Krosfighter](https://img.youtube.com/vi/RIS2AZ6yRpY/maxresdefault.jpg)](https://youtu.be/RIS2AZ6yRpY)
+
+---
+
+## Unreal Plugins
+
+#### FR
+
+J'utilise aussi mon entreprise pour publier des plugins sur le marché de Unreal (FAB).
+
+#### En
+
+I use my company to publish plugins on the Unreal market (FAB).
+
+### Platformer Maker
+
+#### FR
+
+Ce plugin fournit des outils pour créer un platformer 3D.
+Par exemple, un spawner basé sur une spline permet de faire apparaître des plateformes, des pièces ou d’autres éléments.
+On y trouve également des plateformes à sens unique (one-way), fixes, ou se déplaçant soit le long d’une spline, soit entre des points d’ancrage.
+Enfin, un exemple de scroller en vue de côté illustre l’ensemble des fonctionnalités du plugin.
+
+#### EN
+
+This plugin provides tools to create a 3D platformer.
+For instance, it includes a spline-based spawner that can generate platforms, coins, or other objects.
+It also features one-way platforms, fixed platforms, and moving platforms that either follow a spline or move between anchor points.
+Finally, a side-view scroller example showcases all the plugin’s features.
+
+[Download the demo](https://enguerrancobert.itch.io/platformermaker)
+
