@@ -21,14 +21,16 @@ These experiences have strengthened my technical skills, adaptability, and gave 
 
 ##Shift Plus
 
-### Projet non annoncé 
+### Unannounced Project 
+
+####FR
 
 J'ai débuté cette mission en Avril 2023, jusqu'en Octobre 2024.
 
 Sur ce projet, j’ai occupé le rôle de **Lead Programmer**, en développant un prototype sous **Unreal Engine 5**.  
 J’ai travaillé sur **tous les aspects du jeu**, allant des systèmes d’exploration aux mécaniques de combat, ainsi que sur les fonctionnalités de gameplay et les outils de développement.
 
-### Unannounced Project 
+####EN
 
 I started this mission in April 2023 until October 2024.
 
@@ -36,3 +38,29 @@ On this project, I acted as the **Lead Programmer**, building a prototype in **U
 I worked across **all aspects of the game**, from exploration systems to combat mechanics, and from core gameplay features to development tools.  
 
 ---
+
+##Doryah Games
+
+###Krosfighter
+
+####FR
+
+J'ai réalisé cette mission entre Août 2023 jusqu'à Octobre 2023. 
+Durant cette période, je cumulais deux missions en parallèle.  
+
+Sur ce **projet Unity**, j’ai principalement travaillé à l’amélioration du **HUD** et du **menu de sélection des personnages**, qui avaient besoin d’un supplément de polish.
+J’ai également créé un petit **outil**, en utilisant **DoTween**, afin de faciliter l’intégration d’éléments de **juiciness** dans le jeu.
+
+Le jeu est publié par **Ankama**.
+
+####EN
+
+I worked on this project from August 2023 to October 2023.
+During this period, I was working on two missions in parallel.  
+
+On this **Unity project**, I mainly contributed to improving the **HUD** and the **character selection menu**, which required an additional layer of polish.
+I also developed a small **tool** leveraging **DoTween** to enhance the game’s juiciness and streamline its integration.
+
+The game is published by **Ankama**.
+
+[![Krosfighter](https://img.youtube.com/vi/RIS2AZ6yRpY/maxresdefault.jpg)](https://youtu.be/RIS2AZ6yRpY)
