@@ -3,7 +3,7 @@ layout: default
 title: About Me
 ---
 
-#FR
+### FR
 
 Salut 👋 je suis **Enguerran COBERT**.  
 
@@ -49,7 +49,7 @@ Quand je ne code pas (ou ne joue pas à des jeux vidéo 🎮), j’adore :
 
 Bref, tout ce qui me permet de sortir des écrans et de me ressourcer.
 
-#EN
+### EN
 
 Hi 👋 I’m **Enguerran COBERT**.  
 
