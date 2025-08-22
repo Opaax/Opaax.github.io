@@ -12,6 +12,12 @@ This portfolio is under construction. [My Current Portfolio](https://enguerranco
 
 ---
 
+## Experience
+
+- 🕹️ [Freelance](Freelance.md)
+  
+---
+
 ## Projects
 
 - 🕹️ [A* Pathfing](AStartPF.md)
