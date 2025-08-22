@@ -142,7 +142,8 @@ bool FPFNodeTopLeftToBottomRight::operator()(const UCPathFindingNode& A, const U
 
         //If Xs are same check Ys
         //Low Y goes to the left, Big Y goes to the Right
-        if (lLocB.X == lLocA.X) {
+        if (lLocB.X == lLocA.X)
+        {
             return lLocB.Y > lLocA.Y;
         }
 
