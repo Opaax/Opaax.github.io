@@ -111,3 +111,4 @@ Just like in the latest Zelda games (BOTW, TOTK), you can also add bonus hearts 
 
 [Download the demo](https://enguerrancobert.itch.io/heart-base-life-system-demo)
 
+👉 [Home](./).
