@@ -21,9 +21,9 @@ This portfolio is under construction. [My Current Portfolio](https://enguerranco
 
 ## Projects
 
-- 🕹️ [Bet'N'Die](BND.md)
 - 🕹️ [A* Pathfing](AStartPF.md)
 - 🕹️ [Spawn System Using Spatial Hashing](SSSH.md)
+- 🕹️ [Bet'N'Die](BND.md)
 - 🕹️ [Yojimbot - Fan project](https://github.com/Opaax/Yojimbot_FanProject)
 
 ---
