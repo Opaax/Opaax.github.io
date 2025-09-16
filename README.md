@@ -13,14 +13,17 @@
 ## Projects
 
 - 🕹️ [A* Pathfing](AStartPF.md)
-- 🕹️ [Spawn System Using Spatial Hashing](SSSH.md)
+  
+---
+![BetNDie](assets/SSSH_Banner.png)
+- 🕹️ [Spawn System with Spatial Hashing](SSSH.md)
 
 ---
-  ![BetNDie](assets/BetNDie_test.png)
+![BetNDie](assets/BetNDie_Banner.png)
 - 🕹️ [Bet'N'Die](BND.md)
 
 ---
- ![BetNDie](assets/Yojimbot_Thumbnail.png)
+![Yojimbot - Fan project](assets/Yojimbot_Banner.png)
 - 🕹️ [Yojimbot - Fan project](https://github.com/Opaax/Yojimbot_FanProject)
 
 ---
