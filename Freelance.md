@@ -63,6 +63,8 @@ I also developed a small **tool** leveraging **DoTween** to enhance the game’s
 
 The game is published by **Ankama**.
 
+[Trailer](https://youtu.be/RIS2AZ6yRpY)
+
 [![Krosfighter](https://img.youtube.com/vi/RIS2AZ6yRpY/maxresdefault.jpg)](https://youtu.be/RIS2AZ6yRpY)
 
 ---
