@@ -3,12 +3,14 @@ layout: default
 title: About Me
 ---
 
+English version below
+
 ### FR
 
 Salut 👋 je suis **Enguerran COBERT**.  
 
 Je viens de **Savoie (France)**, le pays du ski, du fromage et des montagnes !  
-Enfant, quand je n’étais pas dehors, je passais mon temps à regarder mon frère jouer aux jeux vidéo… et c’est de là qu’est née ma passion. 🎮  
+Enfant, quand je n’étais pas dehors, je passais mon temps à regarder mon frère jouer aux jeux vidéo… et c’est de là qu’est née ma passion.  
 
 ---
 
@@ -41,7 +43,7 @@ Le Québec m’a toujours fasciné avec ses grandes étendues, synonyme de liber
 
 ## En dehors du code  
 
-Quand je ne code pas (ou ne joue pas à des jeux vidéo 🎮), j’adore :  
+Quand je ne code pas (ou ne joue pas à des jeux vidéo), j’adore :  
 - 🕰️ Réparer des **montres automatiques vintage**  
 - 🧗 Pratiquer l’**escalade**  
 - 🚴 Faire du vélo  
@@ -54,7 +56,7 @@ Bref, tout ce qui me permet de sortir des écrans et de me ressourcer.
 Hi 👋 I’m **Enguerran COBERT**.  
 
 I grew up in **Savoie, France** – land of skiing, cheese, and mountains!  
-As a kid, when I wasn’t outside, I spent hours watching my brother play video games… and that’s where my passion began. 🎮  
+As a kid, when I wasn’t outside, I spent hours watching my brother play video games… and that’s where my passion began. 
 
 ---
 
@@ -87,7 +89,7 @@ Québec has always fascinated me with its vast landscapes – to me, a true symb
 
 ## Outside of Code  
 
-When I’m not coding (or playing video games 🎮), I enjoy:  
+When I’m not coding (or playing video games), I enjoy:  
 - 🕰️ Repairing **vintage automatic watches**  
 - 🧗 Practicing **climbing**  
 - 🚴 Riding my bike  
