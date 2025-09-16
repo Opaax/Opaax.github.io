@@ -1,11 +1,4 @@
 
-- 🎮 Gameplay Programmer (Unity / Unreal)
-- 📍 Based in Montréal, Canada
-- 📧 enguerran.cobert@gmail.com
-- [Other Website](https://enguerrancobert.myportfolio.com/)
-
----
-
 [About Me](aboutme.md)
 
 ---
@@ -23,6 +16,13 @@
 - 🕹️ [Spawn System Using Spatial Hashing](SSSH.md)
 - 🕹️ [Bet'N'Die](BND.md)
 - 🕹️ [Yojimbot - Fan project](https://github.com/Opaax/Yojimbot_FanProject)
+
+---
+
+- 🎮 Gameplay Programmer (Unity / Unreal)
+- 📍 Based in Montréal, Canada
+- 📧 enguerran.cobert@gmail.com
+- [Other Website](https://enguerrancobert.myportfolio.com/)
 
 ---
 
