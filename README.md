@@ -12,15 +12,15 @@
 
 ## Projects
 
-![BetNDie](assets/AStarPF_Banner.png)
+![A* Pathfinding](assets/AStarPF_Banner.png)
 - 🕹️ [A* Pathfinding](AStartPF.md)
   
 ---
-![BetNDie](assets/SSSH_Banner.png)
+![Spawn System with Spatial Hashing](assets/SSSH_Banner.png)
 - 🕹️ [Spawn System with Spatial Hashing](SSSH.md)
 
 ---
-![BetNDie](assets/BetNDie_Banner.png)
+
 - 🕹️ [Bet'N'Die](BND.md)
 
 ---
