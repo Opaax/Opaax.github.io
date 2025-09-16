@@ -12,7 +12,8 @@
 
 ## Projects
 
-- 🕹️ [A* Pathfing](AStartPF.md)
+![BetNDie](assets/AStarPF_Banner.png)
+- 🕹️ [A* Pathfinding](AStartPF.md)
   
 ---
 ![BetNDie](assets/SSSH_Banner.png)
