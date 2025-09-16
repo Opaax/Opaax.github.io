@@ -16,8 +16,7 @@
 - 🕹️ [Spawn System Using Spatial Hashing](SSSH.md)
 - 🕹️ [Bet'N'Die](BND.md)
   
-  ![BetNDie](assets/BetNDie_Thumbnail_small.png)
-[![Bet'N'Die](assets/BetNDie_Thumbnail_small.png)](BND.md)
+![BetNDie](assets/BetNDie_Thumbnail_small.png)
 - 🕹️ [Yojimbot - Fan project](https://github.com/Opaax/Yojimbot_FanProject)
 
 ---
