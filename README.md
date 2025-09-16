@@ -14,7 +14,6 @@
 
 - 🕹️ [A* Pathfing](AStartPF.md)
 - 🕹️ [Spawn System Using Spatial Hashing](SSSH.md)
-
   ![BetNDie](assets/BetNDie_test.png)
 - 🕹️ [Bet'N'Die](BND.md)
 - 🕹️ [Yojimbot - Fan project](https://github.com/Opaax/Yojimbot_FanProject)
