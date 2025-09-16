@@ -20,7 +20,7 @@
 - 🕹️ [Bet'N'Die](BND.md)
 
 ---
-
+ ![BetNDie](assets/Yojimbot_Thumbnail.png)
 - 🕹️ [Yojimbot - Fan project](https://github.com/Opaax/Yojimbot_FanProject)
 
 ---
