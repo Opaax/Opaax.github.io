@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Employment
+description: All my studio experiences
 ---
 
 ## Nereid Games
