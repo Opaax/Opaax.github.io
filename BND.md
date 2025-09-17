@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Bet'n'Die
+description: Graduate project as a mini studio
 ---
 
 ![BetNDie](assets/BetNDie_Banner_NoText.png)
