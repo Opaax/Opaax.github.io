@@ -1,5 +1,5 @@
 ## Enguerran COBERT
-### FR
+#### FR
 
 Je suis Enguerran COBERT, développeur gameplay basé à Montréal.
 Originaire de Savoie (France), j’ai commencé par des études en électricité puis en Game Art, avant de tomber passionnément dans la **programmation avec Unity et Unreal**.
@@ -8,7 +8,7 @@ En dehors du code, je restaure des montres automatiques, fais de l’escalade, d
 
 [Un peu plus sur moi](aboutme.md)
 
-### EN
+#### EN
 
 I’m Enguerran COBERT, a gameplay programmer based in Montréal, Canada.
 Originally from Savoie, France, I started out studying electricity and Game Art, before discovering my passion for **programming with Unity and Unreal**.
