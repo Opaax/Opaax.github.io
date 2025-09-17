@@ -1,7 +1,7 @@
 ---
 layout: default
 title: A* Pathfinding
-description: exploring AI programming
+description: Exploring AI programming
 ---
 
 ![A* Pathfinding](assets/AStarPF_Banner_NoText.png)
