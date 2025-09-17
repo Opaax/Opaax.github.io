@@ -10,7 +10,7 @@ J’ai collaboré avec différents **studios** et équipes de développement sur
 
 Cette expérience m’a permis de renforcer mes compétences techniques, de m’adapter rapidement à de nouveaux environnements, et de découvrir différentes approches de production dans l’industrie.
 
-#### En
+#### EN
 
 Since 2023, I’ve been working as a **freelance developer**, focusing on gameplay programming and game development.  
 I’ve collaborated with several **studios** and teams on diverse projects, ranging from designing gameplay systems to optimizing code.  
@@ -75,7 +75,7 @@ The game is published by **Ankama**.
 
 J'utilise aussi mon entreprise pour publier des plugins sur le marché de Unreal (FAB).
 
-#### En
+#### EN
 
 I use my company to publish plugins on the Unreal market (FAB).
 
