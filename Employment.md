@@ -6,6 +6,8 @@ description: All my studio experiences
 
 ## Nereid Games
 
+![Nereid Games](assets/Nereid_Banner_NoText.png)
+
 #### FR
 
 ### Contrat pro (alternance), 1 an – 2022
