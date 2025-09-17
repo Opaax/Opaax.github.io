@@ -5,7 +5,10 @@
 
 ## Experiences
 
+![Freelance](assets/Freelance_Banner.png)
 - 🕹️ [Freelance](Freelance.md)
+
+---
 - 🕹️ [Employment](Employment.md)
   
 ---
