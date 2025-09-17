@@ -19,7 +19,7 @@ Avec ce système, je peux récupérer uniquement les cases valides pour assurer 
 #### EN
 
 For one of my projects, I needed an enemy spawn system around the player, with randomness involved.
-I could have simply used functions like Random::UnitSphere, but this could generate invalid positions due to collisions or other obstacles.
+I could have simply used functions like ```Random::UnitSphere```, but this could generate invalid positions due to collisions or other obstacles.
 
 To solve this, I implemented spatial hashing.
 With this system, I can retrieve only valid cells, ensuring enemies always spawn correctly.
