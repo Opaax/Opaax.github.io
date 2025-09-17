@@ -8,17 +8,17 @@ description: exploring AI programming
 
 #### FR
 
-J'adore lire des livres sur la programmation.
-L'un de mes préféré: **Programming Game AI by Example by Mat Buckland**.
+J’adore lire des livres sur la programmation.
+L’un de mes préférés est **Programming Game AI by Example de Mat Buckland**.
 
-Dans ce livre, il parle d'algorithms pour trouver un chemin dans graph de noeux, ce qui m'a inspiré de créer un projet ou je pouvait coder quelque chose de similaire.
+Dans ce livre, il explique différents algorithmes de recherche de chemin dans un graphe de nœuds, ce qui m’a inspiré à créer un projet où je pouvais implémenter quelque chose de similaire.
 
 #### EN
 
-I love reading programming books.
-One of my favourites: **Programming Game AI by Example by Mat Buckland**.
+I love reading books about programming.
+One of my favorites is **Programming Game AI by Example by Mat Buckland**.
 
-In the book, he discusses algorithms for finding a path on a node graph, which inspired me to create a project where I can code something similar.
+In this book, he discusses various pathfinding algorithms in node graphs, which inspired me to create a project where I could implement something similar.
 
 ### Code
 ```C++
