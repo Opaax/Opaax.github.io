@@ -45,7 +45,7 @@ Outside of coding, I enjoy restoring automatic watches, climbing, cycling, and s
 
 ---
 ![Yojimbot - Fan project](assets/Yojimbot_Banner.png)
-- 🕹️ [Yojimbot - Fan project](https://github.com/Opaax/Yojimbot_FanProject)
+- 🕹️ [Yojimbot - Fan project](Yojimbot.md)
 
 ---
 
