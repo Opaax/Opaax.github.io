@@ -44,6 +44,8 @@ I worked across **all aspects of the game**, from exploration systems to combat 
 
 ### Krosfighter
 
+![Krofighter](assets/Krosfighter_Banner_NoText.png)
+
 #### FR
 
 J'ai réalisé cette mission de Août 2023 jusqu'à Octobre 2023. 
@@ -64,9 +66,8 @@ I also developed a small **tool** leveraging **DoTween** to enhance the game’s
 
 The game is published by **Ankama**.
 
-[Trailer](https://youtu.be/RIS2AZ6yRpY)
-
-[![Krosfighter](https://img.youtube.com/vi/RIS2AZ6yRpY/maxresdefault.jpg)](https://youtu.be/RIS2AZ6yRpY)
+- [Trailer](https://youtu.be/RIS2AZ6yRpY)
+- [Gameplay](https://youtu.be/u9VtnTxDnp4?t=3651)
 
 ---
 
@@ -81,6 +82,8 @@ J'utilise aussi mon entreprise pour publier des plugins sur le marché de Unreal
 I use my company to publish plugins on the Unreal market (FAB).
 
 ### Platformer Maker
+
+![Platformer Maker](assets/Platformer_Banner_NoText.png)
 
 #### FR
 
@@ -99,6 +102,8 @@ Finally, a side-view scroller example showcases all the plugin’s features.
 [Download the demo](https://enguerrancobert.itch.io/platformermaker)
 
 ### Heart-Based Life System
+
+![Heart-Based Life System](assets/HLS_Banner_NoText.png)
 
 #### FR
 
