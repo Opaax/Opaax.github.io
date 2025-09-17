@@ -90,7 +90,7 @@ Malheureusement, le jeu n’est plus jouable aujourd’hui car nous n’avons pl
 - [Prototype du Betshot](https://www.youtube.com/watch?v=FAA6zQfjZm4)
 - [Itch.io](https://isart-digital.itch.io/betndie)
 
-#### En
+#### EN
 
 Bet’N’Die was my graduation project at Isart Digital. It was developed on a custom version of Unreal Engine 4.26.
 We built this custom version to allow deployment on AWS, as our servers were hosted there thanks to a partnership between AWS and Isart Digital.
