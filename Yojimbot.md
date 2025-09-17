@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Yojimbot
+description: A fan project from Yojimbot commics
 ---
 
 ![Yojimbot](assets/Yojimbot_Banner_NoText.png)
