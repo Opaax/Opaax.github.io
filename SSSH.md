@@ -4,15 +4,31 @@ title: Spawn System using Spatial Hashing
 description: Exploring spatial hashing
 ---
 
-For one of my projects, I need a spawn system that spawns enemies at a range of the player, but with random parameters.
-I could simply use 'Random::UnitSphere', but this can lead to an unplaceable position if there is any collision or other thing that can block the spawn.
+![Spawn System using Spatial Hashing](assets/SSSH_Banner_NoText.png)
 
-To resolve that, I thought about spatial hashing.
-With that, I can get only valid cells where my enemy will always spawn.
+English version below
+
+#### FR
+
+Pour l’un de mes projets, j’avais besoin d’un système de spawn d’ennemis autour du joueur, avec une part de hasard.
+J’aurais pu utiliser des fonctions simples comme ```Random::UnitSphere```, mais cela pouvait générer des positions impossibles à utiliser à cause des collisions ou d’autres obstacles.
+
+Pour résoudre ce problème, j’ai pensé au spatial hashing.
+Avec ce système, je peux récupérer uniquement les cases valides pour assurer un spawn correct.
+
+#### EN
+
+For one of my projects, I needed an enemy spawn system around the player, with randomness involved.
+I could have simply used functions like Random::UnitSphere, but this could generate invalid positions due to collisions or other obstacles.
+
+To solve this, I implemented spatial hashing.
+With this system, I can retrieve only valid cells, ensuring enemies always spawn correctly.
 
 ---
+### Result
+![Spatial Hashing Result](assets/SSSH_Result.png)
 
-
+### Code
 ```C++
 struct FSpawnGridHandleBase
 {
