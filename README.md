@@ -24,7 +24,7 @@
 - 🕹️ [Bet'N'Die](BND.md)
 
 ---
-![Yojimbot - Fan project](assets/Yojimbot_Banner.png)
+
 - 🕹️ [Yojimbot - Fan project](https://github.com/Opaax/Yojimbot_FanProject)
 
 ---
