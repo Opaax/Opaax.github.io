@@ -5,7 +5,7 @@ title: Bet'n'Die
 
 English version below.
 
-### FR
+#### FR
 
 Bet’N’Die est mon projet de fin d’études à Isart Digital. Ce projet a été développé sur une version personnalisée d’Unreal Engine 4.26.
 Nous avons créé cette version custom afin de permettre un build vers AWS. En effet, nos serveurs étaient hébergés sur AWS grâce au partenariat entre AWS et Isart Digital.
@@ -87,7 +87,7 @@ Malheureusement, le jeu n’est plus jouable aujourd’hui car nous n’avons pl
 - [Prototype du Betshot](https://www.youtube.com/watch?v=FAA6zQfjZm4)
 - [Itch.io](https://isart-digital.itch.io/betndie)
 
-### En
+#### En
 
 Bet’N’Die was my graduation project at Isart Digital. It was developed on a custom version of Unreal Engine 4.26.
 We built this custom version to allow deployment on AWS, as our servers were hosted there thanks to a partnership between AWS and Isart Digital.
