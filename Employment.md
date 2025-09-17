@@ -47,6 +47,8 @@ C#, Unity, Third-party SDK, Trello, Ads, Google Analytics, Prototyping, Mobile G
 
 ## Mini-Mango
 
+![Mini Mango](assets/MiniMango_Banner_NoText.png)
+
 #### FR
 
 ### Stage, 6 mois – Février à Août 2021
