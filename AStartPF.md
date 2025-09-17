@@ -1,6 +1,7 @@
 ---
 layout: default
 title: A* Pathfinding
+description: exploring AI programming
 ---
 
 I love reading programming books.
