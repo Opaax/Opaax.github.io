@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Freelance
+description: All my freelance experiences
 ---
 
 #### FR
