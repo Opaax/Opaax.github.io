@@ -4,11 +4,23 @@ title: A* Pathfinding
 description: exploring AI programming
 ---
 
+![A* Pathfinding](assets/AStarPF_Banner_NoText.png)
+
+#### FR
+
+J'adore lire des livres sur la programmation.
+L'un de mes préféré: **Programming Game AI by Example by Mat Buckland**.
+
+Dans ce livre, il parle d'algorithms pour trouver un chemin dans graph de noeux, ce qui m'a inspiré de créer un projet ou je pouvait coder quelque chose de similaire.
+
+#### EN
+
 I love reading programming books.
 One of my favourites: **Programming Game AI by Example by Mat Buckland**.
 
 In the book, he discusses algorithms for finding a path on a node graph, which inspired me to create a project where I can code something similar.
 
+### Code
 ```C++
 //----------------------- IndexedPriorityQLow ---------------------------
 //
