@@ -5,6 +5,8 @@ Originaire de Savoie (France), j’ai commencé par des études en électricité
 Aujourd’hui, je crée du gameplay, des outils, et des prototypes, tout en cultivant ma curiosité technique et créative.
 En dehors du code, je restaure des montres automatiques, fais de l’escalade, du vélo, et j’aime me ressourcer dans la nature.
 
+[Un peu plus sur moi](aboutme.md)
+
 ## EN
 
 I’m Enguerran COBERT, a gameplay programmer based in Montréal, Canada.
