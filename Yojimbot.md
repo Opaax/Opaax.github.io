@@ -23,7 +23,7 @@ Ce projet m’a permis d’explorer plus en profondeur l’animation dans Unreal
 J’ai également eu l’occasion d’expérimenter le système de “slice” d’objets.
 
 Le projet continue d’évoluer; à l’origine, j’avais créé un système de combos simple, et aujourd’hui je développe un éditeur visuel permettant de concevoir des combos graphiquement.
-Il est compatible avec le ```Gameplay Ability System```, les transitions sont des tags pour laisser la possibilité de créer des context afin de lancer le bon combo.
+Il est compatible avec le ```Gameplay Ability System```, les transitions utilisent des tags, ce qui permet de créer des contextes afin de lancer le bon combo.
 
 ## Combo graph WIP
 
@@ -43,7 +43,8 @@ This project allowed me to dive deeper into animation in Unreal:
 
 I also had the chance to experiment with the object slicing system.
 
-The project is still evolving; initially, I built a simple combo system, and now I’m working on a visual editor to design combos graphically.
+The project is still evolving, initially, I built a simple combo system, and now I’m developing a visual editor to design combos graphically.
+It is compatible with the ```Gameplay Ability System```, transitions are handled through tags, allowing the creation of contexts to trigger the correct combo.
 
 ## Combo graph WIP
 
