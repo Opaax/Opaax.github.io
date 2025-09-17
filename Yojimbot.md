@@ -7,7 +7,7 @@ title: Yojimbot
 
 English version below
 
-### FR
+#### FR
 
 Yojimbot est une BD de **Repos Sylvain** que j’ai beaucoup appréciée !
 
@@ -23,7 +23,7 @@ J’ai également eu l’occasion d’expérimenter le système de “slice” d
 
 Le projet continue d’évoluer; à l’origine, j’avais créé un système de combos simple, et aujourd’hui je développe un éditeur visuel permettant de concevoir des combos graphiquement.
 
-### EN
+#### EN
 
 Yojimbot is a comic by **Repos Sylvain** that I really enjoyed!
 
