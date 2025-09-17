@@ -24,6 +24,7 @@ Outside of coding, I enjoy restoring automatic watches, climbing, cycling, and s
 - 🕹️ [Freelance](Freelance.md)
 
 ---
+![Employment](assets/Employment_Banner.png)
 - 🕹️ [Employment](Employment.md)
   
 ---
