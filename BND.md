@@ -3,6 +3,8 @@ layout: default
 title: Bet'n'Die
 ---
 
+![BetNDie](assets/BetNDie_Banner_NoText.png)
+
 English version below.
 
 #### FR
