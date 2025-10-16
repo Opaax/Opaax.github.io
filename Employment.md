@@ -26,6 +26,8 @@ C#, Unity, SDK tiers, Trello, Ads, Google Analytics, Prototyping, Mobile Games
 
 [Super Stack and Pass](https://apps.apple.com/us/app/super-stack-and-pass/id1595086298?platform=iphone), [Archer 3D](https://apps.apple.com/us/app/archer-squad-3d/id1596511047)
 
+![Super Stack and Pass Screen](assets/StackOrPass_Screen.png)
+
 #### EN
 
 ### 1-year professional training contract (work-study) – 2022
@@ -44,6 +46,8 @@ C#, Unity, Third-party SDK, Trello, Ads, Google Analytics, Prototyping, Mobile G
 #### Published projects
 
 [Super Stack and Pass](https://apps.apple.com/us/app/super-stack-and-pass/id1595086298?platform=iphone), [Archer 3D](https://apps.apple.com/us/app/archer-squad-3d/id1596511047)
+
+![Super Stack and Pass Screen](assets/StackOrPass_Screen.png)
 
 ## Mini-Mango
 
@@ -68,6 +72,8 @@ Unity, C#, SDKs, XCode, iOS builds, Apps pour enfants, Gestuelles mobiles, 2D, T
 
 [Yummy Restaurant](https://apps.apple.com/ee/app/car-city-yummy-restaurant/id1611181174)
 
+![Yummy Restaurant Screen](assets/Yummy_Screen.jpeg)
+
 #### EN
 
 ### Internship, 6 months – February to August 2021
@@ -86,5 +92,7 @@ Unity, C#, SDK integration, XCode, iOS builds, Children’s mobile apps, Phone g
 #### Published project
 
 [Yummy Restaurant](https://apps.apple.com/ee/app/car-city-yummy-restaurant/id1611181174)
+
+![Yummy Restaurant Screen](assets/Yummy_Screen.jpeg)
 
 👉 [Home](./).
