@@ -1,4 +1,9 @@
 ## Enguerran COBERT
+
+- 🎮 Gameplay Programmer (C++, C#)
+- 📍 Based in Montréal, Canada
+- 📧 enguerran.cobert@gmail.com
+  
 #### FR
 
 Je suis Enguerran COBERT, développeur gameplay basé à Montréal.
@@ -49,13 +54,12 @@ Outside of coding, I enjoy restoring automatic watches, climbing, cycling, and s
 
 ---
 
-- 🎮 Gameplay Programmer (Unity / Unreal)
-- 📍 Based in Montréal, Canada
-- 📧 enguerran.cobert@gmail.com
-- [Other Website](https://enguerrancobert.myportfolio.com/)
+![Opaax Engine Banner](assets/Yojimbot_Banner.png)
+- 🕹️ [Opaax Engine](OpaaxEngine.md)
 
 ---
 
 ## 🌐 Links
 - [LinkedIn](https://linkedin.com/in/enguerran-cobert)
 - [Itch.io](https://enguerrancobert.itch.io/)
+- [Other Website](https://enguerrancobert.myportfolio.com/)
