@@ -2,6 +2,7 @@
 
 - 🎮 Gameplay Programmer (C++, C#)
 - 📍 Based in Montréal, Canada
+- Looking for a role in the game Industry as Programmer
 - 📧 enguerran.cobert@gmail.com
   
 #### FR
