@@ -54,7 +54,7 @@ Outside of coding, I enjoy restoring automatic watches, climbing, cycling, and s
 
 ---
 
-![Opaax Engine Banner](assets/Yojimbot_Banner.png)
+![Opaax Engine Banner](assets/OPE_Banner.png)
 - 🕹️ [Opaax Engine](OpaaxEngine.md)
 
 ---
