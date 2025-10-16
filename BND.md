@@ -55,6 +55,8 @@ Le vrai cœur du gameplay réside dans les paris, tels que :
 Pour gagner, il faut accumuler un maximum de jetons et les déposer dans la vault, un coffre commun à tous les joueurs.
 Les jetons conservés en poche ne comptent pas ! Mais comme la vault est un lieu très convoité, les éliminations y sont fréquentes.
 
+![BetNDie](assets/BND_Screen.png)
+
 ## Mon implication dans le projet
 
 Je fais partie de l’équipe qui a pitché le projet. Entre juin et septembre 2021, nous avons exploré l’idée d’intégrer le poker dans un autre type de jeu (twinstick, FPS).
@@ -133,6 +135,8 @@ The real key to victory lies in bets, such as:
 
 To win, players must accumulate tokens and deposit them in the vault, a shared location accessible to all.
 Tokens kept in your pocket don’t count! But since the vault is a high-risk spot, eliminations there are frequent.
+
+![BetNDie](assets/BND_Screen.png)
 
 ## My Role in the Project
 
