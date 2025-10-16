@@ -54,6 +54,7 @@ To keep progressing, I studied advanced resources such as:
 - Esoterica Prototype Game Engine by Bobby Anguelov
 - Enigine by furkansarihan
 - The book Game Engine Architecture by Jason Gregory
-- This helped me structure and build my own engine step by step.
+
+This helped me structure and build my own engine step by step.
 
 ![OPE Screen Vulkan](assets/Vulkan_Screen.png)
