@@ -35,6 +35,8 @@ Grâce à cela, j’ai pu structurer et développer progressivement mon propre m
 
 ![OPE Screen Vulkan](assets/Vulkan_Screen.png)
 
+👉 [Home](./).
+
 #### EN
 
 I started this project because I wanted to better understand low-level game engine programming. Until now, I mostly developed games using existing engines like Unity and Unreal Engine. This project isn’t meant to “compete” with those engines, but rather to improve my technical knowledge about how game engines work under the hood.
@@ -45,7 +47,6 @@ Then, I used SFML for the graphics side and developed a small Geometry Wars–st
 After that, I added support for sprites and animations.
 
 ![OPE Screen Vulkan](assets/OPE_Anim.gif)
-
 
 Wanting to go deeper technically, I implemented Vulkan and moved to a modern rendering pipeline.
 
@@ -60,3 +61,5 @@ To keep progressing, I studied advanced resources such as:
 This helped me structure and build my own engine step by step.
 
 ![OPE Screen Vulkan](assets/Vulkan_Screen.png)
+
+👉 [Home](./).
