@@ -69,6 +69,8 @@ The game is published by **Ankama**.
 - [Trailer](https://youtu.be/RIS2AZ6yRpY)
 - [Gameplay](https://youtu.be/u9VtnTxDnp4?t=3651)
 
+![Krofighter](assets/Krosfighter_Screen.jpg)
+
 ---
 
 ## Unreal Plugins
