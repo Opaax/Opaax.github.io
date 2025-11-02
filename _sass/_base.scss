@@ -1,0 +1,64 @@
+// Reset & Base Styles
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: $font-primary;
+  font-size: $font-size-base;
+  line-height: 1.6;
+  color: $dark;
+  background-color: $white;
+  overflow-x: hidden;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: $font-heading;
+  font-weight: 700;
+  line-height: 1.2;
+  margin-bottom: 1rem;
+}
+
+h1 { font-size: $font-size-5xl; }
+h2 { font-size: $font-size-4xl; }
+h3 { font-size: $font-size-3xl; }
+h4 { font-size: $font-size-2xl; }
+h5 { font-size: $font-size-xl; }
+h6 { font-size: $font-size-lg; }
+
+p {
+  margin-bottom: 1rem;
+}
+
+a {
+  color: $primary;
+  text-decoration: none;
+  transition: $transition-base;
+  
+  &:hover {
+    color: darken($primary, 10%);
+  }
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+main {
+  padding-top: 76px; // Height of fixed navbar
+}
+
+section {
+  padding: map-get($spacers, 7) 0;
+  
+  @media (max-width: $breakpoint-md) {
+    padding: map-get($spacers, 5) 0;
+  }
+}

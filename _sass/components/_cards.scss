@@ -1,0 +1,160 @@
+.card {
+  border: none;
+  border-radius: $border-radius-lg;
+  overflow: hidden;
+  transition: $transition-base;
+  box-shadow: $shadow-md;
+  
+  &:hover {
+    transform: translateY(-10px);
+    box-shadow: $shadow-xl;
+  }
+}
+
+.card-img-top {
+  height: 250px;
+  object-fit: cover;
+  transition: $transition-slow;
+}
+
+.card:hover .card-img-top {
+  transform: scale(1.05);
+}
+
+.card-body {
+  padding: 1.5rem;
+}
+
+.card-title {
+  font-size: $font-size-xl;
+  font-weight: 700;
+  margin-bottom: 0.75rem;
+  color: $dark;
+}
+
+.card-text {
+  color: $gray;
+  margin-bottom: 1rem;
+}
+
+.card-link {
+  color: $primary;
+  font-weight: 600;
+  text-decoration: none;
+  
+  &:hover {
+    text-decoration: underline;
+  }
+}
+
+// Project Card
+.project-card {
+  position: relative;
+  overflow: hidden;
+  border-radius: $border-radius-lg;
+  cursor: pointer;
+  
+  .project-image {
+    width: 100%;
+    height: 300px;
+    object-fit: cover;
+    transition: $transition-slow;
+  }
+  
+  .project-overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: $gradient-overlay;
+    opacity: 0;
+    transition: $transition-base;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 2rem;
+    color: $white;
+  }
+  
+  &:hover {
+    .project-image {
+      transform: scale(1.1);
+    }
+    
+    .project-overlay {
+      opacity: 1;
+    }
+  }
+  
+  .project-title {
+    font-size: $font-size-2xl;
+    font-weight: 700;
+    margin-bottom: 0.5rem;
+    transform: translateY(20px);
+    transition: $transition-base;
+  }
+  
+  .project-description {
+    font-size: $font-size-base;
+    margin-bottom: 1rem;
+    transform: translateY(20px);
+    transition: $transition-base 0.1s;
+  }
+  
+  .project-tags {
+    display: flex;
+    gap: 0.5rem;
+    flex-wrap: wrap;
+    transform: translateY(20px);
+    transition: $transition-base 0.2s;
+    
+    .tag {
+      background: rgba($white, 0.2);
+      padding: 0.25rem 0.75rem;
+      border-radius: $border-radius-pill;
+      font-size: 0.875rem;
+      backdrop-filter: blur(10px);
+    }
+  }
+  
+  &:hover {
+    .project-title,
+    .project-description,
+    .project-tags {
+      transform: translateY(0);
+    }
+  }
+}
+
+// Skill Card
+.skill-card {
+  background: $light;
+  border-radius: $border-radius;
+  padding: 2rem;
+  text-align: center;
+  transition: $transition-base;
+  
+  &:hover {
+    background: $white;
+    box-shadow: $shadow-lg;
+  }
+  
+  .skill-icon {
+    font-size: 3rem;
+    color: $primary;
+    margin-bottom: 1rem;
+  }
+  
+  .skill-name {
+    font-size: $font-size-lg;
+    font-weight: 600;
+    margin-bottom: 0.5rem;
+  }
+  
+  .skill-level {
+    color: $gray;
+    font-size: $font-size-base;
+  }
+}

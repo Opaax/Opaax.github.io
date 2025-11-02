@@ -1,0 +1,51 @@
+// Home page specific styles
+
+.home-hero {
+  // Hero styles are in components/_hero.scss
+}
+
+.featured-projects {
+  background: $light;
+  
+  .section-title {
+    text-align: center;
+  }
+  
+  .projects-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 2rem;
+    margin-top: map-get($spacers, 5);
+    
+    @media (max-width: $breakpoint-md) {
+      grid-template-columns: 1fr;
+    }
+  }
+}
+
+.skills-section {
+  .skills-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 2rem;
+    margin-top: map-get($spacers, 5);
+  }
+}
+
+.cta-section {
+  background: $gradient-primary;
+  color: $white;
+  text-align: center;
+  padding: map-get($spacers, 7) 0;
+  
+  h2 {
+    font-size: $font-size-4xl;
+    margin-bottom: 1.5rem;
+  }
+  
+  p {
+    font-size: $font-size-xl;
+    margin-bottom: 2rem;
+    opacity: 0.9;
+  }
+}

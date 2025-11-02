@@ -1,0 +1,86 @@
+# Configuration du site
+title: Opaax Portfolio
+email: votre-email@example.com
+description: >-
+  Portfolio de développeur/designer [votre spécialité].
+  Découvrez mes projets et réalisations.
+baseurl: ""
+url: "https://opaax.github.io"
+
+# Informations personnelles
+author:
+  name: Votre Nom
+  bio: Développeur [Full-Stack/Front-End/Back-End] passionné
+  location: Montréal, QC
+  email: votre-email@example.com
+  website: https://opaax.github.io
+  
+# Réseaux sociaux
+social:
+  github: opaax
+  linkedin: votre-profil
+  twitter: votre_username
+  # dribbble: votre_username
+  # behance: votre_username
+
+# Configuration de build
+markdown: kramdown
+permalink: /:title/
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# Paramètres Kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+  syntax_highlighter_opts:
+    block:
+      line_numbers: true
+
+# Collections pour le portfolio
+collections:
+  projects:
+    output: true
+    permalink: /projects/:name/
+  skills:
+    output: false
+
+# Valeurs par défaut
+defaults:
+  - scope:
+      path: ""
+      type: "projects"
+    values:
+      layout: "project"
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+  - scope:
+      path: ""
+    values:
+      layout: "default"
+
+# Exclusions
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - README.md
+  - LICENSE
+  - package.json
+  - package-lock.json
+  - gulpfile.js
+  - webpack.config.js
+
+# Paramètres portfolio
+portfolio:
+  projects_per_page: 9
+  show_excerpts: true
