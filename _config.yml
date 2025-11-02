@@ -1,25 +1,24 @@
 # Configuration du site
-title: Opaax Portfolio
-email: votre-email@example.com
+title: Enguerran Cobert portfolio
+email: enguerran.cobert@gmail.com
 description: >-
-  Portfolio de développeur/designer [votre spécialité].
-  Découvrez mes projets et réalisations.
+  My personnal portfolio as Game Programmer.
 baseurl: ""
 url: "https://opaax.github.io"
 
 # Informations personnelles
 author:
-  name: Votre Nom
-  bio: Développeur [Full-Stack/Front-End/Back-End] passionné
+  name: Enguerran Cobert
+  bio: Game Programmer
   location: Montréal, QC
-  email: votre-email@example.com
+  email: enguerran.cobert@gmail.com
   website: https://opaax.github.io
   
 # Réseaux sociaux
 social:
   github: opaax
-  linkedin: votre-profil
-  twitter: votre_username
+  linkedin: https://www.linkedin.com/in/enguerran-cobert/
+  #twitter: votre_username
   # dribbble: votre_username
   # behance: votre_username
 
