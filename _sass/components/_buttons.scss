@@ -30,13 +30,14 @@
 }
 
 .btn-outline-primary {
-  border: 2px solid $primary;
-  color: $primary;
-  background: transparent;
+  border: 2px solid $primary !important;
+  color: $primary !important;
+  background: transparent !important;
   
   &:hover {
-    background: $primary;
-    color: $white;
+    background: $primary !important;
+    color: $white !important;
+    border-color: $primary !important;
   }
 }
 

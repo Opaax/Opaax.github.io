@@ -23,6 +23,11 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: 700;
   line-height: 1.2;
   margin-bottom: 1rem;
+  color: $heading-color;
+}
+
+h3, h4, h5, h6 {
+  color: $heading-color-2;
 }
 
 h1 { font-size: $font-size-5xl; }
@@ -42,7 +47,7 @@ a {
   transition: $transition-base;
   
   &:hover {
-    color: darken($primary, 10%);
+    color: $dark;
   }
 }
 

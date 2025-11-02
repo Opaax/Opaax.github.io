@@ -17,6 +17,31 @@
   }
 }
 
+.project-card-simple {
+  transition: $transition-base;
+  border: none;
+  box-shadow: $shadow-md;
+  
+  &:hover {
+    transform: translateY(-5px);
+    box-shadow: $shadow-xl;
+  }
+  
+  .card-img-top {
+    height: 200px;
+    object-fit: cover;
+  }
+  
+  .card-title {
+    color: $dark;
+    font-weight: 600;
+  }
+  
+  &:hover .card-title {
+    color: $primary;
+  }
+}
+
 .portfolio-filters {
   display: flex;
   justify-content: center;
