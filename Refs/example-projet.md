@@ -3,7 +3,7 @@ layout: project
 title: Mon Super Projet
 description: Une brève description de mon projet en une ou deux phrases
 date: 2024-01-15
-image: /assets/images/projects/mon-projet/thumbnail.jpg
+image: /assets/images/project/No_Thumbnail.png
 tags: [Unity, C#, Game Design]
 github: https://github.com/opaax/mon-projet
 demo: https://demo.com/mon-projet

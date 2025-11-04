@@ -9,14 +9,15 @@ description: Découvrez mes projets et réalisations
         <div class="col-lg-10">
             <h1 class="mb-4">Portfolio</h1>
             <p class="lead mb-5">
-                Voici une sélection de mes projets récents. Cliquez sur un projet pour en savoir plus.
+                Here’s a selection of my projects. Click on any of them to learn more.
             </p>
 
             <hr class="my-5">
 
             <!-- Portfolio Grid -->
             <div class="row g-4">
-                {% for project in site.projects %}
+                {% assign sorted_projects = site.projects | sort: 'path' %}
+                {% for project in sorted_projects %}
                 <div class="col-md-6 col-lg-4">
                     <a href="{{ project.url | relative_url }}" class="text-decoration-none">
                         <div class="card h-100 project-card-simple">

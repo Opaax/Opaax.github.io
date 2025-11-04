@@ -217,7 +217,7 @@ document.addEventListener('DOMContentLoaded', function() {
         right: 30px;
         width: 50px;
         height: 50px;
-        background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+        background: linear-gradient(160deg, #00bf63 35%, #1a2c1e 100%);
         color: white;
         border: none;
         border-radius: 50%;
