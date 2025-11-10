@@ -2,7 +2,7 @@
 layout: project
 title: Nereid Games
 description: Professionnal Training Contract as Unity Programmer
-date: 2021-09-01
+date: 2021/09/01
 image: /assets/img/projects/NereidGames/NereidGames_Thumbnail.png
 tags: [Unity, C#, Git, Mobile, Plastic SCM]
 website: https://sites.google.com/nereid-games.com/index/home

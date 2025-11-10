@@ -2,7 +2,7 @@
 layout: project
 title: BOUN’SEAs
 description: Programmer
-date: 2019-07-01
+date: 2019/07/01
 image: /assets/img/projects/Bounseas/BS_Thumbnail.png
 tags: [Animate, AS3, SVN, Mobile]
 ---

@@ -2,7 +2,7 @@
 layout: project
 title: School project - Rush
 description: Gameplay Programmer
-date: 2019-11-28
+date: 2019/11/28
 image: /assets/img/projects/Rush/Rush_Thumbnail.png
 tags: [Unity, C#, Git, Mobile]
 ---

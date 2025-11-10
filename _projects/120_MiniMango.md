@@ -2,7 +2,7 @@
 layout: project
 title: Mini Mango
 description: Internship as Unity Programmer
-date: 2021-02-01
+date: 2021/02/01
 image: /assets/img/projects/MiniMango/MiniMango_thumbnail.png
 tags: [Unity, C#, Git, Mobile]
 website: https://mini-mango.com/
