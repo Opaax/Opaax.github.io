@@ -6,6 +6,8 @@ date: 2025/04
 image: /assets/img/Projects/OpaaxEngine/OPE_Thumbnail.png
 tags: [C++, Vulkan, Engine]
 github: https://github.com/Opaax/OpaaxEngine/tree/dev/OpaaxGameEngine
+github:
+demo:
 ---
 
 ![OpaaxEngine_Banner](/assets/img/Projects/OpaaxEngine/OPE_Banner_NoText.png)
