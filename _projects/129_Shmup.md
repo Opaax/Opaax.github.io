@@ -3,7 +3,7 @@ layout: project
 title: School Project - SHMUP
 description: Programmer
 date: 2019/02/01
-image: /assets/img/Projects/SHMUP/SHMUP_Screen_1.png
+image: /assets/img/Projects/BND/SHMUP_Screen_1.jpg
 tags: [Animate, AS3, SVN, OOP]
 ---
 
