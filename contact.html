@@ -31,12 +31,12 @@ description: Contact me
                     <h3 class="mb-3">Find me</h3>
                     <div class="d-flex gap-3 flex-wrap">
                         {% if site.social.github %}
-                        <a href="https://github.com/{{ site.social.github }}" target="_blank" rel="noopener" class="btn btn-outline-primary">
+                        <a href="{{ site.social.github }}" target="_blank" rel="noopener" class="btn btn-outline-primary">
                             <i class="bi bi-github me-2"></i> GitHub
                         </a>
                         {% endif %}
                         {% if site.social.linkedin %}
-                        <a href="https://linkedin.com/in/{{ site.social.linkedin }}" target="_blank" rel="noopener" class="btn btn-outline-primary">
+                        <a href="{{ site.social.linkedin }}" target="_blank" rel="noopener" class="btn btn-outline-primary">
                             <i class="bi bi-linkedin me-2"></i> LinkedIn
                         </a>
                         {% endif %}
