@@ -3,7 +3,7 @@ layout: project
 title: School project - BoxManager
 description: Programmer & Designer
 date: 2019/04/17
-image: /assets/img/projects/Sokoban/BoxManager_Thumbnail.png
+image: /assets/img/Projects/Sokoban/BoxManager_Thumbnail.png
 tags: [Javascript, Html, CSS, Mobile]
 ---
 

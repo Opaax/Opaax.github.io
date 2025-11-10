@@ -3,7 +3,7 @@ layout: project
 title: School project - Plum's Odyssey
 description: Gameplay Programmer - Game Designer
 date: 2020/03/25
-image: /assets/img/projects/Plum/Plum_Thumbnail.png
+image: /assets/img/Projects/Plum/Plum_Thumbnail.png
 tags: [Unity, C#, Git, Gameplay, Design]
 website: https://yaysimbi.itch.io/plums-odyssey
 ---
