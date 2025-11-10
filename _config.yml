@@ -1,24 +1,85 @@
-title: Enguerran COBERT 
-theme: jekyll-theme-tactile
-description: "Gameplay Programmer | Unreal & Unity"
+# Configuration du site
+title: Enguerran Cobert portfolio
+email: enguerran.cobert@gmail.com
+description: >-
+  My personnal portfolio as Game Programmer.
+baseurl: ""
+url: "https://opaax.github.io"
 
-# Navigation links
-nav:
-  - title: "Home"
-    url: /
-  - title: "About"
-    url: /aboutme
-  - title: "Spawn System Using Spatial Hashing"
-    url: /SSSH
-  - title: "A* Pathfinding"
-    url: /AStartPF
-  - title: "Freelance"
-    url: /Freelance
-  - title: "Employment"
-    url: /Employment
-  - title: "Bet'n'Die"
-    url: /BND
-  - title: "Yojimbot"
-    url: /Yojimbot
-  - title: "Opaax Engine"
-    url: /OpaaxEngine
+# Informations personnelles
+author:
+  name: Enguerran Cobert
+  bio: Game Programmer
+  location: Montréal, QC
+  email: enguerran.cobert@gmail.com
+  website: https://opaax.github.io
+  
+# Réseaux sociaux
+social:
+  github: https://github.com/Opaax
+  linkedin: https://www.linkedin.com/in/enguerran-cobert/
+  #twitter: votre_username
+  # dribbble: votre_username
+  # behance: votre_username
+
+# Configuration de build
+markdown: kramdown
+permalink: /:title/
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# Paramètres Kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+  syntax_highlighter_opts:
+    block:
+      line_numbers: true
+
+# Collections pour le portfolio
+collections:
+  projects:
+    output: true
+    permalink: /projects/:name/
+  skills:
+    output: false
+
+# Valeurs par défaut
+defaults:
+  - scope:
+      path: ""
+      type: "projects"
+    values:
+      layout: "project"
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+  - scope:
+      path: ""
+    values:
+      layout: "default"
+
+# Exclusions
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - README.md
+  - LICENSE
+  - package.json
+  - package-lock.json
+  - gulpfile.js
+  - webpack.config.js
+
+# Paramètres portfolio
+portfolio:
+  projects_per_page: 9
+  show_excerpts: true

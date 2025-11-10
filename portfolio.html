@@ -1,0 +1,56 @@
+---
+layout: default
+title: Portfolio
+description: Découvrez mes projets et réalisations
+---
+
+<div class="container py-5">
+    <div class="row justify-content-center">
+        <div class="col-lg-10">
+            <h1 class="mb-4">Portfolio</h1>
+            <p class="lead mb-5">
+                Here’s a selection of my projects. Click on any of them to learn more.
+            </p>
+
+            <hr class="my-5">
+
+            <!-- Portfolio Grid -->
+            <div class="row g-4">
+                {% assign sorted_projects = site.projects | sort: 'path' %}
+                {% for project in sorted_projects %}
+                <div class="col-md-6 col-lg-4">
+                    <a href="{{ project.url | relative_url }}" class="text-decoration-none">
+                        <div class="card h-100 project-card-simple">
+                            {% if project.image %}
+                            <img src="{{ project.image | relative_url }}" class="card-img-top" alt="{{ project.title }}">
+                            {% else %}
+                            <div class="card-img-top bg-gradient d-flex align-items-center justify-content-center" style="height: 200px;">
+                                <i class="bi bi-folder2-open text-white" style="font-size: 3rem;"></i>
+                            </div>
+                            {% endif %}
+                            <div class="card-body">
+                                <h3 class="h5 card-title">{{ project.title }}</h3>
+                                <p class="card-text text-muted">{{ project.description }}</p>
+                                {% if project.tags %}
+                                <div class="d-flex gap-2 flex-wrap mt-3">
+                                    {% for tag in project.tags %}
+                                    <span class="badge bg-light text-dark">{{ tag }}</span>
+                                    {% endfor %}
+                                </div>
+                                {% endif %}
+                            </div>
+                        </div>
+                    </a>
+                </div>
+                {% endfor %}
+            </div>
+
+            {% if site.projects.size == 0 %}
+            <div class="alert alert-info mt-5">
+                <i class="bi bi-info-circle me-2"></i>
+                Aucun projet pour le moment. Revenez bientôt !
+            </div>
+            {% endif %}
+        </div>
+    </div>
+</div>

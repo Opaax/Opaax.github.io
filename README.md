@@ -1,66 +1,50 @@
-## Enguerran COBERT
+# EnguerranCobert
 
-- 🎮 Gameplay Programmer (C++, C#)
-- 📍 Based in Montréal, Canada
-- Looking for a role in the game Industry as Programmer
-- 📧 enguerran.cobert@gmail.com
-  
-#### FR
+Welcome to your new Jekyll theme! In this directory, you'll find the files you need to be able to package up your theme into a gem. Put your layouts in `_layouts`, your includes in `_includes`, your sass files in `_sass` and any other assets in `assets`.
 
-Je suis Enguerran COBERT, développeur gameplay basé à Montréal.
-Originaire de Savoie (France), j’ai commencé par des études en électricité puis en Game Art, avant de tomber passionnément dans la **programmation avec Unity et Unreal**.
-Aujourd’hui, je crée du gameplay, des outils, et des prototypes, tout en cultivant ma curiosité technique et créative.
-En dehors du code, je restaure des montres automatiques, fais de l’escalade, du vélo, et j’aime me ressourcer dans la nature.
+To experiment with this code, add some sample content and run `bundle exec jekyll serve` – this directory is setup just like a Jekyll site!
 
-[Un peu plus sur moi](aboutme.md)
+TODO: Delete this and the text above, and describe your gem
 
-#### EN
+## Installation
 
-I’m Enguerran COBERT, a gameplay programmer based in Montréal, Canada.
-Originally from Savoie, France, I started out studying electricity and Game Art, before discovering my passion for **programming with Unity and Unreal**.
-Today, I focus on building gameplay systems, tools, and prototypes, while keeping a strong curiosity for both tech and creativity.
-Outside of coding, I enjoy restoring automatic watches, climbing, cycling, and spending time in nature.
+Add this line to your Jekyll site's `Gemfile`:
 
-[More about Me](aboutme.md)
+```ruby
+gem "EnguerranCobert"
+```
 
----
+And add this line to your Jekyll site's `_config.yml`:
 
-## Experiences
+```yaml
+theme: EnguerranCobert
+```
 
-![Freelance](assets/Freelance_Banner.png)
-- 🕹️ [Freelance](Freelance.md)
+And then execute:
 
----
-![Employment](assets/Employment_Banner.png)
-- 🕹️ [Employment](Employment.md)
-  
----
+    $ bundle
 
-## Projects
+Or install it yourself as:
 
-![A* Pathfinding](assets/AStarPF_Banner.png)
-- 🕹️ [A* Pathfinding](AStartPF.md)
-  
----
-![Spawn System with Spatial Hashing](assets/SSSH_Banner.png)
-- 🕹️ [Spawn System with Spatial Hashing](SSSH.md)
+    $ gem install EnguerranCobert
 
----
-![BetNDie](assets/BetNDie_Banner.png)
-- 🕹️ [Bet'N'Die](BND.md)
+## Usage
 
----
-![Yojimbot - Fan project](assets/Yojimbot_Banner.png)
-- 🕹️ [Yojimbot - Fan project](Yojimbot.md)
+TODO: Write usage instructions here. Describe your available layouts, includes, sass and/or assets.
 
----
+## Contributing
 
-![Opaax Engine Banner](assets/OPE_Banner.png)
-- 🕹️ [Opaax Engine](OpaaxEngine.md)
+Bug reports and pull requests are welcome on GitHub at https://github.com/[USERNAME]/EnguerranCobert. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant](https://www.contributor-covenant.org/) code of conduct.
 
----
+## Development
 
-## 🌐 Links
-- [LinkedIn](https://linkedin.com/in/enguerran-cobert)
-- [Itch.io](https://enguerrancobert.itch.io/)
-- [Other Website](https://enguerrancobert.myportfolio.com/)
+To set up your environment to develop this theme, run `bundle install`.
+
+Your theme is setup just like a normal Jekyll site! To test your theme, run `bundle exec jekyll serve` and open your browser at `http://localhost:4000`. This starts a Jekyll server using your theme. Add pages, documents, data, etc. like normal to test your theme's contents. As you make modifications to your theme and to your content, your site will regenerate and you should see the changes in the browser after a refresh, just like normal.
+
+When your theme is released, only the files in `_layouts`, `_includes`, `_sass` and `assets` tracked with Git will be bundled.
+To add a custom directory to your theme-gem, please edit the regexp in `EnguerranCobert.gemspec` accordingly.
+
+## License
+
+The theme is available as open source under the terms of the [MIT License](https://opensource.org/licenses/MIT).

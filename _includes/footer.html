@@ -1,0 +1,79 @@
+<footer class="footer">
+    <div class="container">
+        <div class="row">
+            <!-- Brand & Description -->
+            <div class="col-lg-4 col-md-6 mb-4 mb-lg-0">
+                <h3 class="footer-brand">Enguerran</h3>
+                <p class="footer-description">
+                    Game Programmer.
+                </p>
+                <div class="social-links">
+                    {% if site.social.github %}
+                    <a href="{{ site.social.github }}" target="_blank" rel="noopener" aria-label="GitHub">
+                        <i class="bi bi-github"></i>
+                    </a>
+                    {% endif %}
+                    {% if site.social.linkedin %}
+                    <a href="{{ site.social.linkedin }}" target="_blank" rel="noopener" aria-label="LinkedIn">
+                        <i class="bi bi-linkedin"></i>
+                    </a>
+                    {% endif %}
+                    {% if site.social.twitter %}
+                    <a href="{{ site.social.twitter }}" target="_blank" rel="noopener" aria-label="Twitter">
+                        <i class="bi bi-twitter"></i>
+                    </a>
+                    {% endif %}
+                    <a href="mailto:{{ site.author.email }}" aria-label="Email">
+                        <i class="bi bi-envelope"></i>
+                    </a>
+                </div>
+            </div>
+
+            <!-- Quick Links -->
+            <div class="col-lg-2 col-md-6 mb-4 mb-lg-0">
+                <h4 class="footer-title">Navigation</h4>
+                <ul class="footer-links">
+                    <li><a href="{{ '/' | relative_url }}">Home</a></li>
+                    <li><a href="{{ '/portfolio' | relative_url }}">Portfolio</a></li>
+                    <li><a href="{{ '/about' | relative_url }}">About</a></li>
+                    <li><a href="{{ '/contact' | relative_url }}">Contact</a></li>
+                </ul>
+            </div>
+
+            <!-- Services/Skills -->
+            <!--<div class="col-lg-3 col-md-6 mb-4 mb-lg-0">
+                <h4 class="footer-title">Services</h4>
+                <ul class="footer-links">
+                    <li><a href="{{ '/portfolio' | relative_url }}#web-development">Développement Web</a></li>
+                    <li><a href="{{ '/portfolio' | relative_url }}#ui-design">UI/UX Design</a></li>
+                    <li><a href="{{ '/portfolio' | relative_url }}#mobile">Applications Mobile</a></li>
+                    <li><a href="{{ '/portfolio' | relative_url }}#consulting">Consulting</a></li>
+                </ul>
+            </div>-->
+
+            <!-- Contact Info -->
+            <div class="col-lg-3 col-md-6">
+                <h4 class="footer-title">Contact</h4>
+                <ul class="footer-links">
+                    <li>
+                        <i class="bi bi-geo-alt me-2"></i>
+                        {{ site.author.location }}
+                    </li>
+                    <li>
+                        <i class="bi bi-envelope me-2"></i>
+                        <a href="mailto:{{ site.author.email }}">{{ site.author.email }}</a>
+                    </li>
+                    <li>
+                        <i class="bi bi-globe me-2"></i>
+                        <a href="{{ site.url }}">{{ site.url | remove: 'https://' | remove: 'http://' }}</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+
+        <!-- Footer Bottom -->
+        <div class="footer-bottom">
+            <p>&copy; {{ 'now' | date: "%Y" }} {{ site.title }}. All right reserved. | made with <i class="bi bi-heart-fill text-danger"></i> by {{ site.author.name }}</p>
+        </div>
+    </div>
+</footer>

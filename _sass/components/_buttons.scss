@@ -1,0 +1,95 @@
+.btn {
+  font-weight: 600;
+  padding: 0.75rem 2rem;
+  border-radius: $border-radius-pill;
+  transition: $transition-base;
+  border: none;
+  cursor: pointer;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  
+  &:hover {
+    transform: translateY(-3px);
+    box-shadow: $shadow-lg;
+  }
+  
+  &:active {
+    transform: translateY(-1px);
+  }
+}
+
+.btn-primary {
+  background: $gradient-primary;
+  color: $white;
+  
+  &:hover {
+    opacity: 0.9;
+    color: $white;
+  }
+}
+
+.btn-outline-primary {
+  border: 2px solid $primary !important;
+  color: $primary !important;
+  background: transparent !important;
+  
+  &:hover {
+    background: $primary !important;
+    color: $white !important;
+    border-color: $primary !important;
+  }
+}
+
+.btn-light {
+  background: $white;
+  color: $primary;
+  
+  &:hover {
+    background: $light;
+    color: $primary;
+  }
+}
+
+.btn-dark {
+  background: $dark;
+  color: $white;
+  
+  &:hover {
+    background: lighten($dark, 10%);
+    color: $white;
+  }
+}
+
+.btn-lg {
+  padding: 1rem 2.5rem;
+  font-size: $font-size-lg;
+}
+
+.btn-sm {
+  padding: 0.5rem 1.5rem;
+  font-size: $font-size-base;
+}
+
+.cta-button {
+  position: relative;
+  overflow: hidden;
+  
+  &::before {
+    content: '';
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 0;
+    height: 0;
+    border-radius: 50%;
+    background: rgba($white, 0.3);
+    transform: translate(-50%, -50%);
+    transition: width 0.6s, height 0.6s;
+  }
+  
+  &:hover::before {
+    width: 300px;
+    height: 300px;
+  }
+}
