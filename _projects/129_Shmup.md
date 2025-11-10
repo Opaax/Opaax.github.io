@@ -5,6 +5,9 @@ description: Programmer
 date: 2019/02/01
 image: /assets/img/Projects/BND/SHMUP_Screen_1.jpg
 tags: [Animate, AS3, SVN, OOP]
+website: 
+github: 
+demo: 
 ---
 
 ![SHMUP_Banner](/assets/img/Projects/SHMUP/SHMUP_Banner_No_Text.png)
