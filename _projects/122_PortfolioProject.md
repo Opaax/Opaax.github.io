@@ -5,6 +5,9 @@ description: Gameplay Programmer
 date: 2021/02/01
 image: /assets/img/Projects/BeFriendly/BeFriendly_Thumbnail.png
 tags: [Unreal, C++, Blueprint, Git, AI, BehaviorTree, Gameplay]
+website: 
+github: 
+demo: 
 ---
 
 ![BeFriendly_Banner](/assets/img/Projects/BeFriendly/BeFriendly_Banner_No_Text.png)

@@ -5,6 +5,9 @@ description: Programmer & Designer
 date: 2019/04/17
 image: /assets/img/Projects/Sokoban/BoxManager_Thumbnail.png
 tags: [Javascript, Html, CSS, Mobile]
+website: 
+github: 
+demo: 
 ---
 
 ![BoxManager_Banner](/assets/img/Projects/Sokoban/Sokoban_banner_no_text.png)

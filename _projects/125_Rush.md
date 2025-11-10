@@ -5,6 +5,9 @@ description: Gameplay Programmer
 date: 2019/11/28
 image: /assets/img/Projects/Rush/Rush_Thumbnail.png
 tags: [Unity, C#, Git, Mobile]
+website: 
+github: 
+demo: 
 ---
 
 ![Rush_Banner](/assets/img/Projects/Rush/Rush_Banner_No_Text.png)

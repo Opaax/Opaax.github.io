@@ -5,6 +5,9 @@ description: Programmer
 date: 2019/07/01
 image: /assets/img/Projects/Bounseas/BS_Thumbnail.png
 tags: [Animate, AS3, SVN, Mobile]
+website: 
+github: 
+demo: 
 ---
 
 ![BS_Banner](/assets/img/Projects/Bounseas/BS_Banner_No_Text.png)
