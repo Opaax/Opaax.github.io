@@ -2,7 +2,7 @@
 layout: project
 title: Bet'N'Die
 description: Game/UI Programmer
-date: 2021/10/13
+date: 2022/06/13
 image: /assets/img/Projects/BND/BetNDie_Thumbnail.jpg
 tags: [Unreal, C++, Blueprint, Perforce, UI, AWS, Online, FPS]
 website: https://isart-digital.itch.io/betndie
