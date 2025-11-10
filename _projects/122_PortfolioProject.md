@@ -3,7 +3,7 @@ layout: project
 title: School project - BeFriendly
 description: Gameplay Programmer
 date: 2021/02/01
-image: /assets/img/projects/BeFriendly/BeFriendly_Thumbnail.png
+image: /assets/img/Projects/BeFriendly/BeFriendly_Thumbnail.png
 tags: [Unreal, C++, Blueprint, Git, AI, BehaviorTree, Gameplay]
 ---
 
