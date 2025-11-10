@@ -6,6 +6,8 @@ date: 2023-04-01 / 2024-10-31
 image: /assets/img/Projects/No_Thumbnail.png
 tags: [Unreal, C++, Perforce]
 website: https://www.shiftplus.fr/index.php
+github:
+demo:
 ---
 
 ![Krosfigther_Banner](/assets/img/Projects/Krosfigther/Krosfighter_Banner_NoText.png)

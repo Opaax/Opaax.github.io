@@ -6,6 +6,8 @@ date: 2023-08-01 / 2023-10-01
 image: /assets/img/Projects/Krosfigther/Krosfighter_thumbnail.jpg
 tags: [Unity, C#, UI, Juiciness, Git]
 website: https://store.steampowered.com/app/2635820/Krosfighter/
+github:
+demo:
 ---
 
 ![Krosfigther_Banner](/assets/img/Projects/Krosfigther/Krosfighter_Banner_NoText.png)
