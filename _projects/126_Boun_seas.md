@@ -49,10 +49,10 @@ The goal was to create a **casual mobile game** using **AS3 in Adobe Animate**, 
 ### Videos
 
 <div class="ratio ratio-16x9 my-4">
-    <iframe src="https://youtu.be/bxmFAvDbBZs" allowfullscreen></iframe>
+    <iframe src="https://www.youtube.com/embed/bxmFAvDbBZs?si=8tx7nbveHGhX8C-f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 <div class="ratio ratio-16x9 my-4">
-    <iframe src="https://youtu.be/hAW4h33oD5o" allowfullscreen></iframe>
+    <iframe src="https://www.youtube.com/embed/hAW4h33oD5o?si=CPzqUaYxvmr5PYqi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
 ---

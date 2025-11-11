@@ -49,7 +49,7 @@ If a prototype met the target metrics, we continued developing it further; if no
 ### Video
 
 <div class="ratio ratio-16x9 my-4">
-    <iframe src="https://youtu.be/dNtFs5a3Puk?si=tpuPpWjNuEwYnKAy" allowfullscreen></iframe>
+    <iframe src="https://www.youtube.com/embed/dNtFs5a3Puk?si=Mbx7Fjz8GcnHgfFn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
 ---

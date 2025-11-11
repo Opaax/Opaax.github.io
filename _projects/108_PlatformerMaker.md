@@ -48,7 +48,7 @@ I use my personal company to publish plugins on FAB. This allows me to create to
 ### Video
 
 <div class="ratio ratio-16x9 my-4">
-    <iframe src="https://www.youtube.com/watch?v=jaKaRn3-dI4.&feature=youtu.be" allowfullscreen></iframe>
+    <iframe src="https://www.youtube.com/embed/jaKaRn3-dI4?si=YCHjz2GgaC8h_WL3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
 ---

@@ -45,7 +45,7 @@ I also, briefly contributed to the **Spaceship project**, focusing on debugging 
 ### Video
 
 <div class="ratio ratio-16x9 my-4">
-    <iframe src="https://www.youtube.com/watch?v=f2WDxOui3_4" allowfullscreen></iframe>
+    <iframe src="https://www.youtube.com/embed/f2WDxOui3_4?si=DUDVYbltWBb2JN6r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
 ---

@@ -58,7 +58,7 @@ We were a team of three working together.
 ### Video
 
 <div class="ratio ratio-16x9 my-4">
-    <iframe src="https://youtu.be/dv8FGEwMR88" allowfullscreen></iframe>
+    <iframe src="https://www.youtube.com/embed/dv8FGEwMR88?si=No5XFPemEigeDoMj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
 ---

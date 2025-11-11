@@ -46,7 +46,7 @@ It was a **solo development**, where I handled everything from **gameplay to AI*
 ### Video
 
 <div class="ratio ratio-16x9 my-4">
-    <iframe src="https://www.youtube.com/watch?v=57_UefeL-AU" allowfullscreen></iframe>
+    <iframe src="https://www.youtube.com/embed/57_UefeL-AU?si=ioaB1g1lhZ033pQ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
 ---

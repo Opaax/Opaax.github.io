@@ -3,7 +3,7 @@ layout: project
 title: School Project - SHMUP
 description: Programmer
 date: 2019/02/01
-image: /assets/img/Projects/SHMUP/Shmup_Thumbnail.jpg
+image: /assets/img/Projects/SHMUP/Shmup_Thumbnail.png
 tags: [Animate, AS3, SVN, OOP]
 website: 
 github: 
@@ -51,7 +51,7 @@ All assets were provided by Isart, allowing me to focus entirely on the programm
 ### Video
 
 <div class="ratio ratio-16x9 my-4">
-    <iframe src="https://youtu.be/G4SkqwlAox0" allowfullscreen></iframe>
+    <iframe src="https://www.youtube.com/embed/G4SkqwlAox0?si=zdF_AX76-BSZJ9Jz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
 ---
