@@ -72,11 +72,7 @@ For version control, we used **Perforce**. The project was structured like a sma
 ### Trailer
 
 <div class="ratio ratio-16x9 my-4">
-    <iframe src="https://www.youtube.com/embed/FxrSrZTVpUA?si=-MNufNYp0P3uy9x8" allowfullscreen></iframe>
-</div>
-
-<div class="ratio ratio-16x9 my-4">
-    <iframe src="https://www.youtube.com/embed/FxrSrZTVpUA?si=8rYKb-ln28KKxAJ_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <iframe src="https://www.youtube.com/embed/FxrSrZTVpUA?si=8rYKb-ln28KKxAJ_" title="YouTube video player" frameborder="10" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
 ---

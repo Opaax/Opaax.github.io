@@ -50,7 +50,7 @@ The project also needed to be fully functional on mobile.
 ### Video
 
 <div class="ratio ratio-16x9 my-4">
-    <iframe src="https://www.youtube.com/watch?v=4MRmKVaXhOQ" allowfullscreen></iframe>
+    <iframe" src="https://www.youtube.com/embed/4MRmKVaXhOQ?si=l2bi8xAIotUer4AR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
 ---

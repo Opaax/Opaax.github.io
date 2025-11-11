@@ -61,7 +61,7 @@ The goal was to create a 2-level platformer featuring:
 ### Video
 
 <div class="ratio ratio-16x9 my-4">
-    <iframe src="https://www.youtube.com/watch?v=0X-m7WTply8" allowfullscreen></iframe>
+    <iframe src="https://www.youtube.com/embed/0X-m7WTply8?si=7M4S1MO7_B4cxnR1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
 ---

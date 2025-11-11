@@ -46,10 +46,10 @@ The game is published by **Ankama**.
 
 ---
 
-### Video
+### Trailer
 
 <div class="ratio ratio-16x9 my-4">
-    <iframe src="https://www.youtube.com/watch?v=RIS2AZ6yRpY" allowfullscreen></iframe>
+    <iframe src="https://www.youtube.com/embed/RIS2AZ6yRpY?si=dHL9NwQ9NE5ZSLyA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
 ---
