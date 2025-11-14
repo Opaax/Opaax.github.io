@@ -21,15 +21,13 @@ The goal was to create a 2-level platformer featuring:
 - **Online leaderboard integration**
 - A **unique gameplay twist** around a **custom gravity system**, where each platform has its own gravity.
 
----
 
 ### Tech
 
 - **Unity** - Engine
-- **C#** - language
-- **Git** - Versionning
+- **C#** - Language
+- **Git** - Versioning
 
----
 
 ### Team
 
@@ -37,9 +35,8 @@ The goal was to create a 2-level platformer featuring:
 - **Art**: Nolwenn, Eleonor, Helena, Aurelie, Hugo, Vassili
 - **Music & Sound**: Kevin, Henri
 
----
 
-### Screenshoot
+### Screenshot
 
 <div class="row g-3">
     <div class="col-md-6">
@@ -56,7 +53,6 @@ The goal was to create a 2-level platformer featuring:
     </div>
 </div>
 
----
 
 ### Video
 
@@ -64,7 +60,6 @@ The goal was to create a 2-level platformer featuring:
     <iframe src="https://www.youtube.com/embed/0X-m7WTply8?si=7M4S1MO7_B4cxnR1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
----
 
 ### My Work
 
@@ -78,7 +73,6 @@ I also **created the input interface** to support both PC and mobile controls.
 
 As a designer, I contributed to level design and **built editor tools** to quickly place interactive elements such as coins and collectibles.
 
----
 
 ### Conclusion
 

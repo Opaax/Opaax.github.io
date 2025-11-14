@@ -24,18 +24,16 @@ For version control, we used **Perforce**. The project was structured like a sma
 - Beta
 - Gold
 
----
 
 ### Tech
 
 - **Unreal 4** - Engine
 - **C++ - Blueprint** - Language
 - **Figma** - Screen references
-- **Perforce** - versionning
+- **Perforce** - Versioning
 - **AWS** - Servers
 - **Wwise** - Sound Engine
 
----
 
 ### Team
 
@@ -48,9 +46,8 @@ For version control, we used **Perforce**. The project was structured like a sma
 - **Voice Actors** - Pierre-Alain de GARRIGUES (FR), Lemmy CONSTANTINE (EN)
 - **Musicians** - Thilo GOLUZA (Piano / Keyboard), Régis MOREAU (Saxophone)
 
----
 
-### Screenshoot
+### Screenshot
 
 <div class="row g-3">
     <div class="col-md-6">
@@ -67,7 +64,6 @@ For version control, we used **Perforce**. The project was structured like a sma
     </div>
 </div>
 
----
 
 ### Trailer
 
@@ -75,7 +71,6 @@ For version control, we used **Perforce**. The project was structured like a sma
     <iframe src="https://www.youtube.com/embed/FxrSrZTVpUA?si=8rYKb-ln28KKxAJ_" title="YouTube video player" frameborder="10" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
----
 
 ### Gameplay
 
@@ -88,7 +83,6 @@ The **real key to victory lies in bets**, such as:<br>
 
 To win, players must accumulate tokens and **deposit them in the vault**, a shared location accessible to all. Tokens kept in your pocket don’t count! But since the vault is a high-risk spot, eliminations there are frequent.
 
----
 
 ### My Role
 
@@ -120,7 +114,6 @@ Unfortunately, the game is no longer playable since the servers are no longer av
 - [LinkedIn](https://www.linkedin.com/company/bet-n-die/?originalSubdomain=fr)
 - [itch.io](https://isart-digital.itch.io/betndie)
 
----
 
 ### Conclusion
 

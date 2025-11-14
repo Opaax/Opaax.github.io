@@ -22,18 +22,16 @@ I work closely with the designer in charge of the UX in order to make the best f
 
 The game is published by **Ankama**.
 
----
 
 ### Tech
 
 - **Unity** - Engine
 - **C#** - Language
 - **Figma** - Screen references
-- **Git** - versionning
+- **Git** - Versioning
 
----
 
-### Screenshoot
+### Screenshot
 
 <div class="row g-3">
     <div class="col-md-6">
@@ -44,7 +42,6 @@ The game is published by **Ankama**.
     </div>
 </div>
 
----
 
 ### Trailer
 
@@ -52,7 +49,6 @@ The game is published by **Ankama**.
     <iframe src="https://www.youtube.com/embed/RIS2AZ6yRpY?si=dHL9NwQ9NE5ZSLyA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
----
 
 ### Gameplay
 
@@ -73,13 +69,11 @@ The player in last place chooses their boost first, keeping the competition tigh
 - **Boost** - Temporary upgrades that enhance abilities, stats, or add new effects.
 - **God** - When a round drags on too long, a divine entity appears and unleashes devastating attacks to push the battle to its climax!
 
----
 
 ### Links
 
 - [Try it on steam](https://store.steampowered.com/app/2635820/Krosfighter/)
 
----
 
 ### Conclusion
 

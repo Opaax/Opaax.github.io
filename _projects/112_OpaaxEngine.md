@@ -29,17 +29,16 @@ To keep progressing, I studied advanced resources such as:
 
 This helped me structure and build my own engine step by step.
 
----
 
 ### Tech
 
 - **Vulkan** - Rendering
 - **SDL** - Abstracting
 - **C++** - Language
+- **Git** - Versioning
 
----
 
-### Screenshoot
+### Screenshot
 
 <div class="row g-3">
     <div class="col-md-6">
@@ -47,7 +46,6 @@ This helped me structure and build my own engine step by step.
     </div>
 </div>
 
----
 
 ### Code
 
@@ -213,10 +211,7 @@ void OpaaxVulkanRenderer::InitTrianglePipeline()
 }
 ```
 
---- 
 
 ### Links
 
 - [Github](https://github.com/Opaax/OpaaxEngine/tree/dev/OpaaxGameEngine)
-
----

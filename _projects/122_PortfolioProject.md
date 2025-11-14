@@ -17,17 +17,15 @@ demo:
 This project was a personal side project created to learn **Unreal Engine**.
 It was a **solo development**, where I handled everything from **gameplay to AI**.
 
----
 
 ### Tech
 
 - **Unreal** - Engine
-- **C++ / Blueprint** - language
-- **Git** - Versionning
+- **C++ / Blueprint** - Language
+- **Git** - Versioning
 
----
 
-### Screenhoot
+### Screenshot
 
 <div class="row g-3">
     <div class="col-md-6">
@@ -41,7 +39,6 @@ It was a **solo development**, where I handled everything from **gameplay to AI*
     </div>
 </div>
 
----
 
 ### Video
 
@@ -49,7 +46,6 @@ It was a **solo development**, where I handled everything from **gameplay to AI*
     <iframe src="https://www.youtube.com/embed/57_UefeL-AU?si=ioaB1g1lhZ033pQ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
----
 
 ### Gameplay
 
@@ -65,7 +61,6 @@ AI Behaviors:
 When an enemy tank is shot, it becomes friendly and follows the player.
 However, if another enemy tank shoots it again, it turns hostile once more.
 
----
 
 ### Conclusion
 

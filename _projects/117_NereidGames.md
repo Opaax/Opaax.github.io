@@ -20,15 +20,13 @@ Nereid was a small studio focused on hyper-casual mobile games, with a core team
 We collaborated with major publishers such as Voodoo, Ketchapp, Supersonic, and Homa Games to test our KPIs.<br>
 If a prototype met the target metrics, we continued developing it further; if not, we quickly moved on to the next idea.
 
----
 
 ### Tech
 
 - **Unity** - Engine
-- **C#** - language
-- **Git - Plastic** - Versionning
+- **C#** - Language
+- **Git - Plastic** - Versioning
 
----
 
 ### Screenshot
 
@@ -44,7 +42,6 @@ If a prototype met the target metrics, we continued developing it further; if no
     </div>
 </div>
 
----
 
 ### Video
 
@@ -52,7 +49,6 @@ If a prototype met the target metrics, we continued developing it further; if no
     <iframe src="https://www.youtube.com/embed/dNtFs5a3Puk?si=Mbx7Fjz8GcnHgfFn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
----
 
 ### My Work
 
@@ -71,7 +67,6 @@ This approach allowed developers to focus entirely on gameplay and innovation ra
 - **Crowd Control**
 - **Dynamic Mesh Modeling**
 
----
 
 ### Conclusion
 
