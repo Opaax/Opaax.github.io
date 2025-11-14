@@ -23,17 +23,15 @@ The project was divided into two main phases:
 
 We were a team of three working together.
 
----
 
 ### Tech
 
 - **Web** - Engine
-- **Javascript**, **Html** **CSS** - language
-- **SVN** - Versionning
+- **Javascript**, **Html**, **CSS** - Language
+- **SVN** - Versioning
 
----
 
-### ScreenShoot
+### Screenshot
 
 <div class="row g-3">
     <div class="col-md-6">
@@ -53,7 +51,6 @@ We were a team of three working together.
     </div>
 </div>
 
----
 
 ### Video
 
@@ -61,7 +58,6 @@ We were a team of three working together.
     <iframe src="https://www.youtube.com/embed/dv8FGEwMR88?si=No5XFPemEigeDoMj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
----
 
 ### My Work
 
@@ -73,7 +69,6 @@ Programming:
 - Developed the **Undo/Redo system**
 - Worked on the **sound system**
 
----
 
 ### Conclusion
 

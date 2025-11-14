@@ -17,17 +17,15 @@ demo:
 BOUN’SEAs is a project developed over the summer of 2019, after my first year of studies, together with three classmates: Joël, Théophile, and Maximilien.<br>
 The goal was to create a **casual mobile game** using **AS3 in Adobe Animate**, applying everything we had learned throughout the year.
 
----
 
 ### Tech
 
 - **Adobe Animate** - Engine
-- **AS3** - language
-- **SVN** - Versionning
+- **AS3** - Language
+- **SVN** - Versioning
 
----
 
-### Screenshoot
+### Screenshot
 
 <div class="row g-3">
     <div class="col-md-6">
@@ -44,7 +42,6 @@ The goal was to create a **casual mobile game** using **AS3 in Adobe Animate**, 
     </div>
 </div>
 
----
 
 ### Videos
 
@@ -55,7 +52,6 @@ The goal was to create a **casual mobile game** using **AS3 in Adobe Animate**, 
     <iframe src="https://www.youtube.com/embed/hAW4h33oD5o?si=CPzqUaYxvmr5PYqi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
----
 
 ### My Work
 
@@ -71,7 +67,6 @@ I implemented an export feature that generated a **JSON file** containing:
 
 In the game, a Level Manager would then read the JSON data and spawn all corresponding objects dynamically.
 
----
 
 ### Conclusion
 

@@ -17,7 +17,6 @@ I started this mission in **April 2023 until October 2024**.
 On this project, I acted as the **Lead Programmer**, building a prototype in **Unreal Engine 5**.
 I worked across all aspects of the game, from exploration systems to combat mechanics, and from core gameplay features to development tools.
 
----
 
 ### Tech
 
@@ -25,15 +24,13 @@ I worked across all aspects of the game, from exploration systems to combat mech
 - **C++** - Language
 - **Blueprint** - Integration
 - **Notion** - Documentations and tasks
-- **Perforce** - For the versionning
+- **Perforce** - Versioning
 
----
 
 ### Gameplay
 
   Coming soon...
 
----
 
 ### Conclusion
 

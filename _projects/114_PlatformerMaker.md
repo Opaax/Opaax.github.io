@@ -15,18 +15,16 @@ demo: https://drive.google.com/drive/folders/1IBmkLYShIO_jXusS5r2obw4ZiZCF9Umu
 
 I use my personal company to publish plugins on FAB. This allows me to create tools for Unreal and release them in a public environment.
 
----
 
 ### Tech
 
 - **Unreal** - Engine
 - **C++** - Language
 - **GDoc** - Documentation
-- **Git** - versionning
+- **Git** - Versioning
 
----
 
-### Screenshoot
+### Screenshot
 
 <div class="row g-3">
     <div class="col-md-6">
@@ -43,7 +41,6 @@ I use my personal company to publish plugins on FAB. This allows me to create to
     </div>
 </div>
 
----
 
 ### Video
 
@@ -51,7 +48,6 @@ I use my personal company to publish plugins on FAB. This allows me to create to
     <iframe src="https://www.youtube.com/embed/jaKaRn3-dI4?si=YCHjz2GgaC8h_WL3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
----
 
 ### Mechanics
 
@@ -67,7 +63,6 @@ This plugin provides tools to create a 3D platformer.
 - **Engine improvement** - Show the AI Sight without "Play" mode
 - **Turret** - Simple AI acting as a turret
 
----
 
 ### Links
 

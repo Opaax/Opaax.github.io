@@ -19,17 +19,15 @@ The goal was to learn the **fundamentals of programming** and the **AS3 language
 
 All assets were provided by Isart, allowing me to focus entirely on the programming side using **object-oriented programming** (OOP) principles.
 
----
 
 ### Tech
 
 - **Adobe Animate** - Engine
-- **AS3** - language
-- **SVN** - Versionning
+- **AS3** - Language
+- **SVN** - Versioning
 
----
 
-### Screenshoot
+### Screenshot
 
 <div class="row g-3">
     <div class="col-md-6">
@@ -46,7 +44,6 @@ All assets were provided by Isart, allowing me to focus entirely on the programm
     </div>
 </div>
 
----
 
 ### Video
 
@@ -54,7 +51,6 @@ All assets were provided by Isart, allowing me to focus entirely on the programm
     <iframe src="https://www.youtube.com/embed/G4SkqwlAox0?si=zdF_AX76-BSZJ9Jz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
----
 
 ### My Work
 
@@ -67,7 +63,6 @@ I recreated a classic shmup with:
 
 My special feature was simple but effective; the player could barely see anything during normal gameplay, but when the special ability was activated, time slowed down and everything became visible on screen.
 
----
 
 ### Conclusion
 

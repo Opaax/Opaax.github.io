@@ -18,17 +18,15 @@ This was a solo project with the goal of improving my C# skills.<br>
 To stay focused on programming rather than design, we have to use existing Game; Rush.<br>
 The project also needed to be fully functional on mobile.
 
----
 
 ### Tech
 
 - **Unity** - Engine
-- **C#** - language
-- **Git** - Versionning
+- **C#** - Language
+- **Git** - Versioning
 
----
 
-### Screenshoot
+### Screenshot
 
 <div class="row g-3">
 	<div class="col-md-6">
@@ -45,7 +43,6 @@ The project also needed to be fully functional on mobile.
     </div>
 </div>
 
----
 
 ### Video
 
@@ -53,7 +50,6 @@ The project also needed to be fully functional on mobile.
     <iframe src="https://www.youtube.com/embed/4MRmKVaXhOQ?si=ZfuPBth2QDqVqpwQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
----
 
 ### My Work
 
@@ -64,7 +60,6 @@ Concepts learned here:
 - **Scriptable Object**: Implemented using the Flyweight pattern to efficiently manage game data.
 - **Slerp**: Used to smoothly move the camera and refocus it when cubes collided.
 
----
 
 ### Conclusion
 

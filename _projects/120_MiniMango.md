@@ -18,18 +18,16 @@ This is my first **internship as programmer**. For **six months** from **Februar
 At Mini Mango, I worked on the children’s educational game **Yummy Restaurant**.<br>
 I also, briefly contributed to the **Spaceship project**, focusing on debugging before the release.
 
----
 
 ### Tech
 
 - **Unity** - Engine
-- **C#** - language
-- **Git** - Versionning
+- **C#** - Language
+- **Git** - Versioning
 - **XCode** - Ios builds
 
----
 
-### ScreenShoot
+### Screenshot
 
 <div class="row g-3">
     <div class="col-md-6">
@@ -40,7 +38,6 @@ I also, briefly contributed to the **Spaceship project**, focusing on debugging 
     </div>
 </div>
 
----
 
 ### Video
 
@@ -48,7 +45,6 @@ I also, briefly contributed to the **Spaceship project**, focusing on debugging 
     <iframe src="https://www.youtube.com/embed/f2WDxOui3_4?si=DUDVYbltWBb2JN6r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
----
 
 ### My Work
 
@@ -57,7 +53,6 @@ Briefly contributed to the Spaceship project, focusing on debugging before relea
 Integrated various SDKs to enhance gameplay features.
 Maintained and updated iOS builds via XCode, ensuring compliance with frequent regulation changes for children’s apps.
 
----
 
 ### Conclusion
 
