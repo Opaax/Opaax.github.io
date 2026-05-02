@@ -14,17 +14,17 @@ demo:
 
 ### Context
 
-I started at Eden Creative in November 2025 on a contract, which later transitioned into a full-time position.
+I started at **Eden Creative in November 2025** on a contract, which later transitioned into a full-time position.
 
 The studio is composed primarily of artists who use technology to create immersive experiences where humans come first. My role was not only to build the combat system for their immersive game, but also to help the team improve their coding skills.
+
+Unfortunately, this “honeymoon” period was cut short when my visa was not approved.
 
 ## The Game
 
 The game takes place in an unconventional environment. It uses an internal technology called Unibox, which allows players to stand and move within a physical play area. Players are tracked using trackers, without any buttons or controllers.
 
 This meant the challenge was not only technical, but also involved significant game design considerations.
-
-Unfortunately, this “honeymoon” period was cut short when my visa was not approved.
 
 ### Tech
 
