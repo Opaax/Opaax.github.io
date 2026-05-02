@@ -10,6 +10,8 @@ github:
 demo:
 ---
 
+![EdenCreative_Banner](/assets/img/Projects/EdenCreative/Eden_Banner_NoText.png)
+
 ### Context
 
 I started at Eden Creative in November 2025 on a contract, which later transitioned into a full-time position.
